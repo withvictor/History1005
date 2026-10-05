@@ -1,0 +1,2275 @@
+{
+  "record_count": 239,
+  "count_note": "索引紀錄數，不等於獨立著作數；同書的不同用途索引保留原編碼。",
+  "records": [
+    {
+      "id": "CN01",
+      "title": "CN01 葛元煦 滬游雜記 卷一 卷二",
+      "file": "sources/01-shanghai-beijing.md",
+      "anchor": "source-cn01",
+      "source_urls": [
+        "https://zh.wikisource.org/wiki/滬游雜記/卷一",
+        "https://zh.wikisource.org/wiki/滬游雜記/卷二"
+      ]
+    },
+    {
+      "id": "CN02",
+      "title": "CN02 敦崇 燕京歲時記",
+      "file": "sources/01-shanghai-beijing.md",
+      "anchor": "source-cn02",
+      "source_urls": [
+        "https://zh.wikisource.org/zh-hant/燕京歲時記",
+        "https://zh.wikisource.org/zh-hant/%E7%87%95%E4%BA%AC%E6%AD%B2%E6%99%82%E8%A8%98#八月",
+        "https://books.google.com/books?id=D3Fy7oV286sC",
+        "https://upload.wikimedia.org/wikipedia/commons/7/7d/NLC892-GBZX0301015772-297274_%E7%87%95%E4%BA%AC%E6%AD%B2%E6%99%82%E8%A8%98_%E4%B8%80%E5%8D%B7.pdf#page=46"
+      ]
+    },
+    {
+      "id": "CN03",
+      "title": "CN03 申報 1872至1949 數位檔",
+      "file": "sources/01-shanghai-beijing.md",
+      "anchor": "source-cn03",
+      "source_urls": [
+        "https://www.eastview.com/resources/newspapers/shen-bao/",
+        "https://www.cats.uni-heidelberg.de/library/services/list_az_en.html",
+        "https://staatsbibliothek-berlin.de/en/about-the-library/departments/east-asia-department/search/databases/shenbao/"
+      ]
+    },
+    {
+      "id": "CN04",
+      "title": "CN04 點石齋畫報 具體館藏與第一部分數位本",
+      "file": "sources/01-shanghai-beijing.md",
+      "anchor": "source-cn04",
+      "source_urls": [
+        "https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2017.025.0065",
+        "https://www.virtualshanghai.net/texts/e-library?ID=1411"
+      ]
+    },
+    {
+      "id": "CN05",
+      "title": "CN05 海關 通商各關華洋貿易全年清冊 1882 卷",
+      "file": "sources/01-shanghai-beijing.md",
+      "anchor": "source-cn05",
+      "source_urls": [
+        "https://commons.wikimedia.org/wiki/File:NLC404-01J002759-50229_通商各關華洋貿易全年清冊_1882年1882卷.pdf"
+      ]
+    },
+    {
+      "id": "CN06",
+      "title": "CN06 海關十年報告 Decennial Reports 1892至1901",
+      "file": "sources/01-shanghai-beijing.md",
+      "anchor": "source-cn06",
+      "source_urls": [
+        "https://ci.nii.ac.jp/ncid/BA47347785",
+        "https://web.nypl.org/research/research-catalog/bib/b11903256",
+        "https://digitalcollections.crl.edu/record/316943/files/159.pdf"
+      ]
+    },
+    {
+      "id": "CN07",
+      "title": "CN07 H. B. Morse The Trade and Administration of China 1913 版",
+      "file": "sources/01-shanghai-beijing.md",
+      "anchor": "source-cn07",
+      "source_urls": [
+        "https://books.google.com/books?id=Bn47AAAAMAAJ"
+      ]
+    },
+    {
+      "id": "CN08",
+      "title": "CN08 Sidney D. Gamble John Stewart Burgess Peking A Social Survey 1921",
+      "file": "sources/01-shanghai-beijing.md",
+      "anchor": "source-cn08",
+      "source_urls": [
+        "https://archive.org/details/pekingsocialsurv00gambuoft",
+        "https://archive.org/stream/pekingsocialsurv00gambuoft/pekingsocialsurv00gambuoft_djvu.txt",
+        "https://madspace.org/Prints/?ID=75",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e0/Peking%2C_a_social_survey.pdf#page=167",
+        "https://www.bnasie.eu/BN/Books?ID=283",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e0/Peking%2C_a_social_survey.pdf#page=251",
+        "https://upload.wikimedia.org/wikipedia/commons/e/e0/Peking%2C_a_social_survey.pdf#page=133"
+      ]
+    },
+    {
+      "id": "CN09",
+      "title": "CN09 Carl Crow The Travelers’ Handbook for China 1913 第一版",
+      "file": "sources/01-shanghai-beijing.md",
+      "anchor": "source-cn09",
+      "source_urls": [
+        "https://madspace.org/Prints/?ID=78",
+        "https://madspace.org/Asset/Source/adPrint_ID-78_No-01.pdf"
+      ]
+    },
+    {
+      "id": "CN10",
+      "title": "CN10 Arthur H. Smith Village Life in China 1899",
+      "file": "sources/01-shanghai-beijing.md",
+      "anchor": "source-cn10",
+      "source_urls": [
+        "https://www.gutenberg.org/files/33485/33485-h/33485-h.htm"
+      ]
+    },
+    {
+      "id": "CN11",
+      "title": "CN11 Mary Ninde Gamewell The Gateway to China Pictures of Shanghai 1916",
+      "file": "sources/01-shanghai-beijing.md",
+      "anchor": "source-cn11",
+      "source_urls": [
+        "https://www.gutenberg.org/cache/epub/77783/pg77783-images.html"
+      ]
+    },
+    {
+      "id": "CN12",
+      "title": "CN12 Plan of Shanghai 1919",
+      "file": "sources/01-shanghai-beijing.md",
+      "anchor": "source-cn12",
+      "source_urls": [
+        "https://www.virtualshanghai.net/maps/source?ID=28"
+      ]
+    },
+    {
+      "id": "CN13",
+      "title": "CN13 Bubbling Well Police Station Shanghai c.1910",
+      "file": "sources/01-shanghai-beijing.md",
+      "anchor": "source-cn13",
+      "source_urls": [
+        "https://hpcbristol.net/visual/Su01-32"
+      ]
+    },
+    {
+      "id": "CN14",
+      "title": "CN14 Shops on Hatamen Street in Beijing",
+      "file": "sources/01-shanghai-beijing.md",
+      "anchor": "source-cn14",
+      "source_urls": [
+        "https://exhibits.library.duke.edu/items/show/11935"
+      ]
+    },
+    {
+      "id": "CN15",
+      "title": "CN15 Antonia Finnane Changing Clothes in China Fashion History Nation 2008",
+      "file": "sources/01-shanghai-beijing.md",
+      "anchor": "source-cn15",
+      "source_urls": [
+        "https://library.cca.edu/cgi-bin/koha/opac-detail.pl?biblionumber=48762",
+        "https://books.google.com/books/about/Changing_Clothes_in_China.html?id=Ju3N4VeiQ28C"
+      ]
+    },
+    {
+      "id": "CN16",
+      "title": "CN16 David Strand Rickshaw Beijing City People and Politics in the 1920s 1989 所連平裝 1993",
+      "file": "sources/01-shanghai-beijing.md",
+      "anchor": "source-cn16",
+      "source_urls": [
+        "https://www.ucpress.edu/books/rickshaw-beijing/paper"
+      ]
+    },
+    {
+      "id": "CN17",
+      "title": "CN17 Hanchao Lu Beyond the Neon Lights Everyday Shanghai in the Early Twentieth Century 1999 所連平裝 2004",
+      "file": "sources/01-shanghai-beijing.md",
+      "anchor": "source-cn17",
+      "source_urls": [
+        "https://www.ucpress.edu/books/beyond-the-neon-lights/paper"
+      ]
+    },
+    {
+      "id": "CN18",
+      "title": "CN18 Mark Swislocki Culinary Nostalgia Regional Food Culture and the Urban Experience in Shanghai 2009",
+      "file": "sources/01-shanghai-beijing.md",
+      "anchor": "source-cn18",
+      "source_urls": [
+        "https://academic.oup.com/stanford-scholarship-online/book/29557",
+        "https://doi.org/10.11126/stanford/9780804760126.001.0001"
+      ]
+    },
+    {
+      "id": "CN19",
+      "title": "CN19 Henrietta Harrison The Man Awakened from Dreams One Man’s Life in a North China Village 1857至1942 2005",
+      "file": "sources/01-shanghai-beijing.md",
+      "anchor": "source-cn19",
+      "source_urls": [
+        "https://www.degruyterbrill.com/document/doi/10.1515/9780804767460/html"
+      ]
+    },
+    {
+      "id": "CN20",
+      "title": "CN20 Philip C. C. Huang Civil Justice in China Representation and Practice in the Qing 1996",
+      "file": "sources/01-shanghai-beijing.md",
+      "anchor": "source-cn20",
+      "source_urls": [
+        "https://www.degruyterbrill.com/document/doi/10.1515/9781503616233/html",
+        "https://books.google.com/books?id=g6U2-j5z1vEC"
+      ]
+    },
+    {
+      "id": "CN21",
+      "title": "CN21 Allen Bassino Ma Moll Murata van Zanden 〈Wages prices and living standards in China 1738至1925〉 2011",
+      "file": "sources/01-shanghai-beijing.md",
+      "anchor": "source-cn21",
+      "source_urls": [
+        "https://onlinelibrary.wiley.com/doi/10.1111/j.1468-0289.2010.00515.x"
+      ]
+    },
+    {
+      "id": "CN22",
+      "title": "CN22 Madeleine Yue Dong Republican Beijing The City and Its Histories 2003",
+      "file": "sources/01-shanghai-beijing.md",
+      "anchor": "source-cn22",
+      "source_urls": [
+        "https://www.ucpress.edu/books/republican-beijing/hardcover"
+      ]
+    },
+    {
+      "id": "CN23",
+      "title": "CN23 Met China Through the Looking Glass 展覽標籤中的旗袍分期與物件",
+      "file": "sources/01-shanghai-beijing.md",
+      "anchor": "source-cn23",
+      "source_urls": [
+        "https://libmma.contentdm.oclc.org/digital/api/collection/p16028coll12/id/13810/download",
+        "https://www.metmuseum.org/art/collection/search/83978"
+      ]
+    },
+    {
+      "id": "CN24",
+      "title": "CN24 北京公交集團 公交史 車票變遷",
+      "file": "sources/01-shanghai-beijing.md",
+      "anchor": "source-cn24",
+      "source_urls": [
+        "https://www.bjbus.com/home/fun_culture_history.php"
+      ]
+    },
+    {
+      "id": "CN25",
+      "title": "CN25 李建華〈上海第一輛有軌電車為何繞開哈同花園行駛愛文義路 〉 2019",
+      "file": "sources/01-shanghai-beijing.md",
+      "anchor": "source-cn25",
+      "source_urls": [
+        "https://mzj.sh.gov.cn/lnb-wsws/20200518/MZ_LNB12_16509.html"
+      ]
+    },
+    {
+      "id": "GZ01",
+      "title": "GZ01 廣州市市政公報 市政原件的入口",
+      "file": "sources/02-guangzhou.md",
+      "anchor": "source-gz01",
+      "source_urls": [
+        "https://da.gd.gov.cn/portal_home/content/6023"
+      ]
+    },
+    {
+      "id": "GZ02",
+      "title": "GZ02 廣州市市政公所第一號布告 1918年10月19日",
+      "file": "sources/02-guangzhou.md",
+      "anchor": "source-gz02",
+      "source_urls": [
+        "https://zh.wikisource.org/wiki/广州市市政公所第一号布告"
+      ]
+    },
+    {
+      "id": "GZ03",
+      "title": "GZ03 中國海關 十年報告 第四期 1912至1921 第二卷 Southern and Frontier Ports",
+      "file": "sources/02-guangzhou.md",
+      "anchor": "source-gz03",
+      "source_urls": [
+        "https://cir.nii.ac.jp/crid/1130867798288439747",
+        "https://ci.nii.ac.jp/ncid/AA00295125"
+      ]
+    },
+    {
+      "id": "GZ04",
+      "title": "GZ04 Historical Photographs of China 廣州照片組",
+      "file": "sources/02-guangzhou.md",
+      "anchor": "source-gz04",
+      "source_urls": [
+        "https://hpcbristol.net/visual/Sw04-052",
+        "https://hpcbristol.net/visual/mi01-047",
+        "https://hpcbristol.net/visual/RD-s005"
+      ]
+    },
+    {
+      "id": "GZ05",
+      "title": "GZ05 U.S. Navy Ports of the World Canton China 1920",
+      "file": "sources/02-guangzhou.md",
+      "anchor": "source-gz05",
+      "source_urls": [
+        "https://en.wikisource.org/wiki/Ports_of_the_world_-_Canton",
+        "https://en.wikisource.org/wiki/Ports_of_the_world_-_Canton/Sunrise_in_Canton",
+        "https://en.wikisource.org/wiki/Ports_of_the_world_-_Canton/A_Battle_for_Life",
+        "https://en.wikisource.org/wiki/Ports_of_the_world_-_Canton/Wati_and_Honan",
+        "https://commons.wikimedia.org/wiki/File:Canton1920_d006_map_of_the_city.jpg",
+        "https://commons.wikimedia.org/wiki/File:Canton1920_d011_chinese_jirinkisha_runner_with_his_rainproof_coat.jpg"
+      ]
+    },
+    {
+      "id": "GZ06",
+      "title": "GZ06 Earl Browder Civil War in Nationalist China 1927 第 III 章 §15",
+      "file": "sources/02-guangzhou.md",
+      "anchor": "source-gz06",
+      "source_urls": [
+        "https://en.wikisource.org/wiki/Civil_War_in_Nationalist_China/Chapter_3"
+      ]
+    },
+    {
+      "id": "GZ07",
+      "title": "GZ07 鄧中夏〈一九二六年之廣州工潮〉 1927",
+      "file": "sources/02-guangzhou.md",
+      "anchor": "source-gz07",
+      "source_urls": [
+        "https://www.marxists.org/chinese/dengzhongxia/marxist.org-chinese-gong-1927.htm.htm"
+      ]
+    },
+    {
+      "id": "GZ08",
+      "title": "GZ08 江流〈廣州機器工人概況〉 勞動者 第 2 號 1920年10月10日",
+      "file": "sources/02-guangzhou.md",
+      "anchor": "source-gz08",
+      "source_urls": [
+        "https://www.marxists.org/chinese/reference-books/labor-1920/2-11.htm",
+        "https://www.marxists.org/chinese/reference-books/labor-1920/index.htm"
+      ]
+    },
+    {
+      "id": "GZ09",
+      "title": "GZ09 Christine Moll Murata “Chinese Guilds from the Seventeenth to the Twentieth Centuries An Overview”",
+      "file": "sources/02-guangzhou.md",
+      "anchor": "source-gz09",
+      "source_urls": [
+        "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/61A96EB7FF67CE0BE8073C36DDB049CD/S0020859008003672a.pdf/chinese_guilds_from_the_seventeenth_to_the_twentieth_centuries_an_overview.pdf"
+      ]
+    },
+    {
+      "id": "GZ10",
+      "title": "GZ10 黃柏莉〈近代廣州的公共空間與公共生活 1900～1938 以公園 茶樓為中心的考察〉",
+      "file": "sources/02-guangzhou.md",
+      "anchor": "source-gz10",
+      "source_urls": [
+        "https://www.aisixiang.com/data/84915.html",
+        "https://sociologyol.ruc.edu.cn/shxyj/tjyd/edf7eeda11764d86aabbd4fd36388adc.htm"
+      ]
+    },
+    {
+      "id": "GZ11",
+      "title": "GZ11 潘淑華〈民國時期廣州的糞穢處理與城市生活〉",
+      "file": "sources/02-guangzhou.md",
+      "anchor": "source-gz11",
+      "source_urls": [
+        "https://commons.ln.edu.hk/sw_master/3177/",
+        "https://www.mh.sinica.edu.tw/PGPublication_Detail.aspx?major=2&majorTypeCode=2&mid=45&minor=2&minorTypeCode=2&pubid=509&tmid=3"
+      ]
+    },
+    {
+      "id": "GZ12",
+      "title": "GZ12 Isabella L. Bird The Golden Chersonese and the Way Thither",
+      "file": "sources/02-guangzhou.md",
+      "anchor": "source-gz12",
+      "source_urls": [
+        "https://www.gutenberg.org/cache/epub/3412/pg3412-images.html",
+        "https://www.gutenberg.org/ebooks/3412"
+      ]
+    },
+    {
+      "id": "NE01",
+      "title": "NE01 伍連德 1913 防疫報告 最有用的居住與冬季生活一手資料",
+      "file": "sources/03-northeast.md",
+      "anchor": "source-ne01",
+      "source_urls": [
+        "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9364B10BB8A1643FCED4152C847683BE/S0022172400005404a.pdf/first_report_of_the_north_manchurian_plague_prevention_service.pdf"
+      ]
+    },
+    {
+      "id": "NE02",
+      "title": "NE02 滿鐵 1922 宣傳手冊 工業 交通 氣候與錢幣的當時截面",
+      "file": "sources/03-northeast.md",
+      "anchor": "source-ne02",
+      "source_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/92/Manchuria%2C_land_of_opportunities%3B_illustrated_from_photographs_with_diagrams_and_maps_%28IA_cu31924021463520%29.pdf"
+      ]
+    },
+    {
+      "id": "NE03",
+      "title": "NE03 Robert John Perrins 大連社會與殖民城市博士論文",
+      "file": "sources/03-northeast.md",
+      "anchor": "source-ne03",
+      "source_urls": [
+        "https://www.collectionscanada.gc.ca/obj/s4/f2/dsk2/tape17/PQDD_0020/NQ27316.pdf"
+      ]
+    },
+    {
+      "id": "NE04",
+      "title": "NE04 三木理史 1920 年代滿鐵出稼者運輸",
+      "file": "sources/03-northeast.md",
+      "anchor": "source-ne04",
+      "source_urls": [
+        "https://www.jstage.jst.go.jp/article/grj/89/5/89_890502/_pdf",
+        "https://cir.nii.ac.jp/crid/1390564227319278848"
+      ]
+    },
+    {
+      "id": "NE05",
+      "title": "NE05 Gottschang Lary Swallows and Settlers",
+      "file": "sources/03-northeast.md",
+      "anchor": "source-ne05",
+      "source_urls": [
+        "https://www.fulcrum.org/concern/monographs/6m311r289?locale=en",
+        "https://www.jstor.org/stable/10.3998/mpub.22808.11"
+      ]
+    },
+    {
+      "id": "NE06",
+      "title": "NE06 Mark Gamsa 馬迭爾旅館與城市記憶",
+      "file": "sources/03-northeast.md",
+      "anchor": "source-ne06",
+      "source_urls": [
+        "https://eah.anu.edu.au/sites/default/files/article-content/2011-issue37/pdfs/EAH37-Gamsa.pdf",
+        "https://eastasianhistory.org/37/gamsa/index.html"
+      ]
+    },
+    {
+      "id": "NE07",
+      "title": "NE07 Mark Gamsa 哈爾濱比較城市史",
+      "file": "sources/03-northeast.md",
+      "anchor": "source-ne07",
+      "source_urls": [
+        "https://www.cambridge.org/core/journals/urban-history/article/abs/harbin-in-comparative-perspective/1EAEFC47B02FCDBBB349C520C5038839"
+      ]
+    },
+    {
+      "id": "NE08",
+      "title": "NE08 Mark Gamsa Harbin A Cross Cultural Biography",
+      "file": "sources/03-northeast.md",
+      "anchor": "source-ne08",
+      "source_urls": [
+        "https://utpdistribution.com/9781487506285/harbin/",
+        "https://www.jstor.org/stable/10.3138/j.ctv19j75mg"
+      ]
+    },
+    {
+      "id": "NE09",
+      "title": "NE09 Blaine R. Chiasson Administering the Colonizer",
+      "file": "sources/03-northeast.md",
+      "anchor": "source-ne09",
+      "source_urls": [
+        "https://utpdistribution.com/9780774816564/administering-the-colonizer/"
+      ]
+    },
+    {
+      "id": "NE10",
+      "title": "NE10 Yoshihisa Tak Matsusaka The Making of Japanese Manchuria",
+      "file": "sources/03-northeast.md",
+      "anchor": "source-ne10",
+      "source_urls": [
+        "https://www.jstor.org/stable/j.ctt1tfjc1r"
+      ]
+    },
+    {
+      "id": "NE11",
+      "title": "NE11 Alexander Hosie 清末旅程與物產觀察",
+      "file": "sources/03-northeast.md",
+      "anchor": "source-ne11",
+      "source_urls": [
+        "https://bpb-ca-c1.wpmucdn.com/sites.uoguelph.ca/dist/5/293/files/2024/07/Manchuria-Its-People-Resources-and-Recent-History-1904.pdf",
+        "https://archive.org/details/manchuriaitspeop00hosi_0"
+      ]
+    },
+    {
+      "id": "NE12",
+      "title": "NE12 中央研究院 滿州百年歷史地圖",
+      "file": "sources/03-northeast.md",
+      "anchor": "source-ne12",
+      "source_urls": [
+        "https://gis.sinica.edu.tw/manchuria/",
+        "https://gis.sinica.edu.tw/showwmts/index.php?l=Harbin_21.2K_1922&s=manchuria",
+        "https://gis.sinica.edu.tw/showwmts/index.php?l=Mekden_16K_1922&s=manchuria",
+        "https://gis.sinica.edu.tw/showwmts/index.php?l=Mekden_11K_1927&s=manchuria"
+      ]
+    },
+    {
+      "id": "NE13",
+      "title": "NE13 SMU DeGolyer Library 中東鐵路員工住屋照片",
+      "file": "sources/03-northeast.md",
+      "anchor": "source-ne13",
+      "source_urls": [
+        "https://digitalcollections.smu.edu/digital/collection/eaa/id/1525/",
+        "https://commons.wikimedia.org/wiki/File:Chinese_Eastern_Railway-_Exterior_Views_of_Living_Quarters_for_Railway_Employees_(14238154942).jpg"
+      ]
+    },
+    {
+      "id": "NE14",
+      "title": "NE14 Limin Teh 撫順工人流動與勞動控制",
+      "file": "sources/03-northeast.md",
+      "anchor": "source-ne14",
+      "source_urls": [
+        "https://www.cambridge.org/core/journals/international-review-of-social-history/article/labor-control-and-mobility-in-japanesecontrolled-fushun-coalmine-china-19071932/76237C90A582C9C50DE50035D0E762F6"
+      ]
+    },
+    {
+      "id": "NE15",
+      "title": "NE15 1917 年 Directory & Chronicle 奉天 哈爾濱章",
+      "file": "sources/03-northeast.md",
+      "anchor": "source-ne15",
+      "source_urls": [
+        "https://adc.ei-basel.hasdai.org/records/qtbf0-83084",
+        "https://www.histsyn.com/1980/01/directoryandchronicle1917part016.html",
+        "https://madspace.org/Prints/?ID=180"
+      ]
+    },
+    {
+      "id": "TW01",
+      "title": "TW01 安平縣雜記 府城節令 手藝 家常與婚喪的入口",
+      "file": "sources/04-taiwan.md",
+      "anchor": "source-tw01",
+      "source_urls": [
+        "https://taicool.ith.sinica.edu.tw/browse-ebook.html?id=EB0000000052"
+      ]
+    },
+    {
+      "id": "TW02",
+      "title": "TW02 張麗俊 水竹居主人日記 保正與地方家庭的交界",
+      "file": "sources/04-taiwan.md",
+      "anchor": "source-tw02",
+      "source_urls": [
+        "https://digiarch.sinica.edu.tw/digiarch3/content/subject/resource_content.jsp?oid=16777639&queryString=%E6%B0%B4%E5%88%A9%E7%B5%84%E5%90%88&queryType=qs",
+        "https://taco.ith.sinica.edu.tw/tdk/%E9%A6%96%E9%A0%81"
+      ]
+    },
+    {
+      "id": "TW03",
+      "title": "TW03 黃旺成日記 新竹教師 家教 父親的生活",
+      "file": "sources/04-taiwan.md",
+      "anchor": "source-tw03",
+      "source_urls": [
+        "https://www.ith.sinica.edu.tw/archives/news_con.php?no=430",
+        "https://research.sinica.edu.tw/lunar-new-year-japan-taiwan-history/",
+        "https://www.ith.sinica.edu.tw/quarterly_download.php?filename=1724142723_7edd68e8a9b8babb48878767762705c5.pdf&name=TWHRV23N2.pdf"
+      ]
+    },
+    {
+      "id": "TW04",
+      "title": "TW04 林獻堂 灌園先生日記 只能作階級對照 不作普通人模板",
+      "file": "sources/04-taiwan.md",
+      "anchor": "source-tw04",
+      "source_urls": [
+        "https://herhistory.ith.sinica.edu.tw/Story21.html"
+      ]
+    },
+    {
+      "id": "TW05",
+      "title": "TW05 馬偕日記1871至1901 北臺灣晚清背景",
+      "file": "sources/04-taiwan.md",
+      "anchor": "source-tw05",
+      "source_urls": [
+        "https://archives.ith.sinica.edu.tw/news_con.php?no=294"
+      ]
+    },
+    {
+      "id": "TW06",
+      "title": "TW06 1881年埔里墾契 把土地與收成的責任寫具體",
+      "file": "sources/04-taiwan.md",
+      "anchor": "source-tw06",
+      "source_urls": [
+        "https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2019.015.0035"
+      ]
+    },
+    {
+      "id": "TW07",
+      "title": "TW07 臨時臺灣舊慣調查會第一部調查第一回報告書下卷 婚姻 親族與繼承的查證底本",
+      "file": "sources/04-taiwan.md",
+      "anchor": "source-tw07",
+      "source_urls": [
+        "https://tcmb.culture.tw/zh-tw/detail?id=11000013686&indexCode=MOCCOLLECTIONS",
+        "https://homepage.ntu.edu.tw/~ntut019/ltes/TEHbook.pdf"
+      ]
+    },
+    {
+      "id": "TW08",
+      "title": "TW08 1904 1921 臺灣堡圖 與臺北歷史圖層 角色走的路",
+      "file": "sources/04-taiwan.md",
+      "anchor": "source-tw08",
+      "source_urls": [
+        "https://gis.sinica.edu.tw/tileserver/",
+        "https://gis.sinica.edu.tw/taipei/"
+      ]
+    },
+    {
+      "id": "TW09",
+      "title": "TW09 臺南市街與魚菜市場照片 買菜 街屋 交通與排水",
+      "file": "sources/04-taiwan.md",
+      "anchor": "source-tw09",
+      "source_urls": [
+        "https://ncpi.ntmofa.gov.tw/News_Content_OnlineExhibition.aspx?n=8008&psn=208299&s=208384"
+      ]
+    },
+    {
+      "id": "TW10",
+      "title": "TW10 1908 臺灣鐵道名所案內 把旅行拆成具體步驟",
+      "file": "sources/04-taiwan.md",
+      "anchor": "source-tw10",
+      "source_urls": [
+        "https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2002.003.0040"
+      ]
+    },
+    {
+      "id": "TW11",
+      "title": "TW11 灰棉質格紋大襟女衫 日常服裝從實物出發",
+      "file": "sources/04-taiwan.md",
+      "anchor": "source-tw11",
+      "source_urls": [
+        "https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2003.003.0004",
+        "https://women.nmth.gov.tw/?p=1900"
+      ]
+    },
+    {
+      "id": "TW12",
+      "title": "TW12 臺灣府城教會報 創刊文字 會讀書不只等於會漢字",
+      "file": "sources/04-taiwan.md",
+      "anchor": "source-tw12",
+      "source_urls": [
+        "https://taiwanese-corpus.github.io/Khin-hoan_2010_pojbh/script/artical-12744.htm",
+        "https://taiwanese-corpus.github.io/Khin-hoan_2010_pojbh/script/artical-d1tap.htm"
+      ]
+    },
+    {
+      "id": "TW13",
+      "title": "TW13 臺灣日日新報 米價 招工 出租 醫藥與娛樂",
+      "file": "sources/04-taiwan.md",
+      "anchor": "source-tw13",
+      "source_urls": [
+        "https://tul.blog.ntu.edu.tw/archives/14535",
+        "https://www.ntl.edu.tw/public/ntl/4216/%E7%8E%8B%E6%85%A7%E7%91%9C%E5%85%A8%E6%96%87.pdf"
+      ]
+    },
+    {
+      "id": "TW14",
+      "title": "TW14 臺灣民報 1923至1928 讀報社與街頭新知",
+      "file": "sources/04-taiwan.md",
+      "anchor": "source-tw14",
+      "source_urls": [
+        "https://taicool.ith.sinica.edu.tw/browse-news-P0-192304.html",
+        "https://taicool.ith.sinica.edu.tw/browse-news-0.html",
+        "https://research.sinica.edu.tw/taiwan_minpao/"
+      ]
+    },
+    {
+      "id": "TW15",
+      "title": "TW15 臺南新報 替南臺灣找自己的聲音",
+      "file": "sources/04-taiwan.md",
+      "anchor": "source-tw15",
+      "source_urls": [
+        "https://newspaper.nmth.gov.tw/about",
+        "https://newspaper.nmth.gov.tw/"
+      ]
+    },
+    {
+      "id": "TW16",
+      "title": "TW16 語言教本與通譯 誰能聽懂誰",
+      "file": "sources/04-taiwan.md",
+      "anchor": "source-tw16",
+      "source_urls": [
+        "https://tebook.ntl.edu.tw/words/collection.html",
+        "https://tebook.ntl.edu.tw/words/dictionary.html",
+        "https://tebook.ntl.edu.tw/words/research.html"
+      ]
+    },
+    {
+      "id": "TW17",
+      "title": "TW17 1919 臺灣宗教調查報告書第一卷 廟不是只有香火",
+      "file": "sources/04-taiwan.md",
+      "anchor": "source-tw17",
+      "source_urls": [
+        "https://www.ntl.edu.tw/public/Attachment/59141752799.pdf",
+        "https://dict.th.gov.tw/Print.aspx?ID=2255"
+      ]
+    },
+    {
+      "id": "TW18",
+      "title": "TW18 茶行文書 包裝與跨港家庭 臺北不只有日本與中國兩條線",
+      "file": "sources/04-taiwan.md",
+      "anchor": "source-tw18",
+      "source_urls": [
+        "https://archives.ith.sinica.edu.tw/collections_con.php?no=416"
+      ]
+    },
+    {
+      "id": "TW19",
+      "title": "TW19 1915年 臺灣總督府第十九統計書 查物價與人口結構的底層數據",
+      "file": "sources/04-taiwan.md",
+      "anchor": "source-tw19",
+      "source_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/03/NAJDA-%E3%83%A8352-0008_%E5%8F%B0%E6%B9%BE%E7%B7%8F%E7%9D%A3%E5%BA%9C%E7%B5%B1%E8%A8%88%E6%9B%B8_%E7%AC%AC19%E5%9B%9E%E5%A4%A7%E6%AD%A34%E5%B9%B4.pdf",
+        "https://homepage.ntu.edu.tw/~ntut019/ltes/TEHbook.pdf"
+      ]
+    },
+    {
+      "id": "TW20",
+      "title": "TW20 臺灣官民奇聞情話 租屋與生活費 但最容易誤置年代",
+      "file": "sources/04-taiwan.md",
+      "anchor": "source-tw20",
+      "source_urls": [
+        "https://www.th.gov.tw/Epaper_Content/241/8957/"
+      ]
+    },
+    {
+      "id": "HX01",
+      "title": "HX01 哥倫比亞大學 Asia for Educators From Reform to Revolution 1842 to 1911",
+      "file": "sources/05-chronology.md",
+      "anchor": "source-hx01",
+      "source_urls": [
+        "https://afe.easia.columbia.edu/special/china_1750_reform.htm"
+      ]
+    },
+    {
+      "id": "HX02",
+      "title": "HX02 國史館臺灣文獻館 史蹟大樓展覽介紹 國立臺灣歷史博物館 1895年激變常設展",
+      "file": "sources/05-chronology.md",
+      "anchor": "source-hx02",
+      "source_urls": [
+        "https://www.th.gov.tw/CP/104/176/",
+        "https://the.nmth.gov.tw/nmth/ja/Location/0efd8ce3-ca00-4bcb-8e30-af9a7e9df4b6"
+      ]
+    },
+    {
+      "id": "HX03",
+      "title": "HX03 國立臺灣歷史博物館 開港通商",
+      "file": "sources/05-chronology.md",
+      "anchor": "source-hx03",
+      "source_urls": [
+        "https://the.nmth.gov.tw/nmth/zh-TW/Location/62bb43cd-e9e8-4ea7-9096-3fe47c21b880"
+      ]
+    },
+    {
+      "id": "HX04",
+      "title": "HX04 臺鐵 臺灣鐵路路線建造史",
+      "file": "sources/05-chronology.md",
+      "anchor": "source-hx04",
+      "source_urls": [
+        "https://www.railway.gov.tw/tra-tip-web/adr/about-1-5"
+      ]
+    },
+    {
+      "id": "HX05",
+      "title": "HX05 臺鐵 以1908年縱貫鐵道全通時刻表討論旅行時間之文章",
+      "file": "sources/05-chronology.md",
+      "anchor": "source-hx05",
+      "source_urls": [
+        "https://tip.railway.gov.tw/tra-tip-web/tip/file/d8e7b68d-7972-4800-ab55-8824da118eca"
+      ]
+    },
+    {
+      "id": "HX06",
+      "title": "HX06 故宮博物院 故宮講壇第一百三十三講",
+      "file": "sources/05-chronology.md",
+      "anchor": "source-hx06",
+      "source_urls": [
+        "https://www.dpm.org.cn/gugongforum/detail/247295.html"
+      ]
+    },
+    {
+      "id": "HX07",
+      "title": "HX07 國史館臺灣文獻館 昭和五年國勢調查結果表 全島篇 1930年 館藏介紹",
+      "file": "sources/05-chronology.md",
+      "anchor": "source-hx07",
+      "source_urls": [
+        "https://www.th.gov.tw/Epaper_Content/241/8889/"
+      ]
+    },
+    {
+      "id": "HX08",
+      "title": "HX08 國立臺灣圖書館 〈五州三廳與空間治理規畫〉",
+      "file": "sources/05-chronology.md",
+      "anchor": "source-hx08",
+      "source_urls": [
+        "https://www.ntl.edu.tw/public/Attachment/03139362392.pdf"
+      ]
+    },
+    {
+      "id": "HX09",
+      "title": "HX09 美國國務院 Office of the Historian The Chinese Revolution of 1911",
+      "file": "sources/05-chronology.md",
+      "anchor": "source-hx09",
+      "source_urls": [
+        "https://history.state.gov/milestones/1899-1913/chinese-rev"
+      ]
+    },
+    {
+      "id": "HX10",
+      "title": "HX10 FRUS 1915 Document 154",
+      "file": "sources/05-chronology.md",
+      "anchor": "source-hx10",
+      "source_urls": [
+        "https://history.state.gov/historicaldocuments/frus1915/d154"
+      ]
+    },
+    {
+      "id": "HX11",
+      "title": "HX11 國立臺灣歷史博物館 近代臺灣報刊資料庫 臺灣民報 創刊號",
+      "file": "sources/05-chronology.md",
+      "anchor": "source-hx11",
+      "source_urls": [
+        "https://newspaper.nmth.gov.tw/search/detail/R-04-000001-177334"
+      ]
+    },
+    {
+      "id": "HX12",
+      "title": "HX12 國史館臺灣文獻館 〈噍吧哖事件後西來庵之處置〉",
+      "file": "sources/05-chronology.md",
+      "anchor": "source-hx12",
+      "source_urls": [
+        "https://www.th.gov.tw/Epaper_Content/238/5658/"
+      ]
+    },
+    {
+      "id": "HX13",
+      "title": "HX13 哥倫比亞大學 Asia for Educators Before and After the May Fourth Movement",
+      "file": "sources/05-chronology.md",
+      "anchor": "source-hx13",
+      "source_urls": [
+        "https://afe.easia.columbia.edu/special/china_1750_mayfourth.htm"
+      ]
+    },
+    {
+      "id": "HX14",
+      "title": "HX14 國立臺灣歷史博物館 〈樂為世界人 臺灣文化協會百年特展〉",
+      "file": "sources/05-chronology.md",
+      "anchor": "source-hx14",
+      "source_urls": [
+        "https://www.nmth.gov.tw/News_Content_Due.aspx?n=4106&s=139903"
+      ]
+    },
+    {
+      "id": "HX15",
+      "title": "HX15 立法院民主議政園區 〈台灣文化協會 1921年〉",
+      "file": "sources/05-chronology.md",
+      "anchor": "source-hx15",
+      "source_urls": [
+        "https://daap.ly.gov.tw/tw/daap/125-3994.html"
+      ]
+    },
+    {
+      "id": "HX16",
+      "title": "HX16 中央研究院臺灣史研究所檔案館 〈檔案館新開放文書 臺灣新民報社報刊史料〉",
+      "file": "sources/05-chronology.md",
+      "anchor": "source-hx16",
+      "source_urls": [
+        "https://archives.ith.sinica.edu.tw/news_con.php?no=349&page=1"
+      ]
+    },
+    {
+      "id": "HX17",
+      "title": "HX17 FRUS 1925 Volume I 上海1925年5月30日事件相關文書組",
+      "file": "sources/05-chronology.md",
+      "anchor": "source-hx17",
+      "source_urls": [
+        "https://history.state.gov/historicaldocuments/frus1925v01/ch39"
+      ]
+    },
+    {
+      "id": "HX18",
+      "title": "HX18 國立臺灣大學 校務資訊公開 學校沿革",
+      "file": "sources/05-chronology.md",
+      "anchor": "source-hx18",
+      "source_urls": [
+        "https://ntuinfo.ntu.edu.tw/"
+      ]
+    },
+    {
+      "id": "ML01",
+      "title": "ML01 上海通志幹部讀本",
+      "file": "sources/06-mainland-1929-1949.md",
+      "anchor": "source-ml01",
+      "source_urls": [
+        "https://www.shanghai.gov.cn/shanghai/newshanghai/%E4%B8%8A%E6%B5%B7%E9%80%9A%E5%BF%97.pdf"
+      ]
+    },
+    {
+      "id": "ML02",
+      "title": "ML02 Christian Henriot Shanghai industries in the Civil War period 1945至1947",
+      "file": "sources/06-mainland-1929-1949.md",
+      "anchor": "source-ml02",
+      "source_urls": [
+        "https://www.virtualshanghai.net/WMS/Papers?ID=105"
+      ]
+    },
+    {
+      "id": "ML03",
+      "title": "ML03 連玲玲 追求獨立 或 崇尚摩登 近代上海女店職員的出現及其形象塑造",
+      "file": "sources/06-mainland-1929-1949.md",
+      "anchor": "source-ml03",
+      "source_urls": [
+        "https://www.mh.sinica.edu.tw/MHDocument/PublicationDetail/PublicationDetail_331.pdf",
+        "https://www.mh.sinica.edu.tw/PGPublication_Detail.aspx?major=2&majorTypeCode=2&mid=46&minor=3&minorTypeCode=3&pubid=532&tmid=3"
+      ]
+    },
+    {
+      "id": "ML04",
+      "title": "ML04 玲瓏 女性雜誌數位典藏",
+      "file": "sources/06-mainland-1929-1949.md",
+      "anchor": "source-ml04",
+      "source_urls": [
+        "https://exhibitions.library.columbia.edu/exhibits/show/linglong/collection/index"
+      ]
+    },
+    {
+      "id": "ML05",
+      "title": "ML05 上海博物館 黑色織金印花提花緞旗袍",
+      "file": "sources/06-mainland-1929-1949.md",
+      "anchor": "source-ml05",
+      "source_urls": [
+        "https://www.shanghaimuseum.net/mu/frontend/pg/m/article/id/CI00165960",
+        "https://www.shanghaimuseum.net/mu/frontend/pg/article/id/E00004230"
+      ]
+    },
+    {
+      "id": "ML06",
+      "title": "ML06 Henri Cartier Bresson Shanghai June 1949",
+      "file": "sources/06-mainland-1929-1949.md",
+      "anchor": "source-ml06",
+      "source_urls": [
+        "https://collections.lacma.org/object/131586"
+      ]
+    },
+    {
+      "id": "ML07",
+      "title": "ML07 北美館 布列松在中國1948至1949 1958 媒體用圖說對照表",
+      "file": "sources/06-mainland-1929-1949.md",
+      "anchor": "source-ml07",
+      "source_urls": [
+        "https://www.tfam.museum/File/files/01news/200619_Bresson/20200619_%E5%8C%97%E7%BE%8E%E9%A4%A8_%E3%80%8C%E5%B8%83%E5%88%97%E6%9D%BE%E5%9C%A8%E4%B8%AD%E5%9C%8B1948-1949%EF%BD%9C1958%E3%80%8D%E3%80%8CHenri%20Cartire-Bresson%201948-1949%EF%BD%9C1958%E3%80%8D%E5%AA%92%E9%AB%94%E5%9C%96%E8%AA%AA%20Ima.pdf"
+      ]
+    },
+    {
+      "id": "ML08",
+      "title": "ML08 上海市統計局 光輝七十載 燦爛新篇章",
+      "file": "sources/06-mainland-1929-1949.md",
+      "anchor": "source-ml08",
+      "source_urls": [
+        "https://tjj.sh.gov.cn/tjxw/20190927/0014-1003942.html"
+      ]
+    },
+    {
+      "id": "ML09",
+      "title": "ML09 上海公共交通行業的紅色歷史",
+      "file": "sources/06-mainland-1929-1949.md",
+      "anchor": "source-ml09",
+      "source_urls": [
+        "https://sh.people.com.cn/n2/2021/0929/c134768-34938063.html"
+      ]
+    },
+    {
+      "id": "ML10",
+      "title": "ML10 中國銀行 積極穩定金融物價 促進國民經濟恢復 1949至1950",
+      "file": "sources/06-mainland-1929-1949.md",
+      "anchor": "source-ml10",
+      "source_urls": [
+        "https://www.boc.cn/big5/aboutboc/ab7/200809/t20080926_6905.html"
+      ]
+    },
+    {
+      "id": "ML11",
+      "title": "ML11 廣州市情網 第二編1949年",
+      "file": "sources/06-mainland-1929-1949.md",
+      "anchor": "source-ml11",
+      "source_urls": [
+        "https://www.gzsqw.org.cn/c/sdfzpc/dsdsj/39416.jhtml"
+      ]
+    },
+    {
+      "id": "ML12",
+      "title": "ML12 林沛端 抗戰時期廣州淪陷情狀",
+      "file": "sources/06-mainland-1929-1949.md",
+      "anchor": "source-ml12",
+      "source_urls": [
+        "https://m.krzzjn.com/show-1230-112806.html"
+      ]
+    },
+    {
+      "id": "ML13",
+      "title": "ML13 國家檔案局 偉大勝利 中國受降檔案",
+      "file": "sources/06-mainland-1929-1949.md",
+      "anchor": "source-ml13",
+      "source_urls": [
+        "https://www.saac.gov.cn/zt/2014-08/28/content_64462.htm"
+      ]
+    },
+    {
+      "id": "ML14",
+      "title": "ML14 廣州市住房和城鄉建設局 海珠橋",
+      "file": "sources/06-mainland-1929-1949.md",
+      "anchor": "source-ml14",
+      "source_urls": [
+        "https://zfcj.gz.gov.cn/zjdt/ztzl/ygdzt/gzslsjzygd/szjt/content/post_2573826.html"
+      ]
+    },
+    {
+      "id": "ML15",
+      "title": "ML15 廣州市政府 一盅兩件嘆世界 人間至味是清歡",
+      "file": "sources/06-mainland-1929-1949.md",
+      "anchor": "source-ml15",
+      "source_urls": [
+        "https://www.gz.gov.cn/zlgz/whgz/content/post_8576851.html"
+      ]
+    },
+    {
+      "id": "ML16",
+      "title": "ML16 廣州市統計局 光輝歷程譜華章 數說建黨百年廣州經濟發展成就 上",
+      "file": "sources/06-mainland-1929-1949.md",
+      "anchor": "source-ml16",
+      "source_urls": [
+        "https://tjj.gz.gov.cn/stats_newtjyw/sjjd/content/mpost_8540391.html"
+      ]
+    },
+    {
+      "id": "ML17",
+      "title": "ML17 李鐵虎 民國北京大中學校沿革 介紹",
+      "file": "sources/06-mainland-1929-1949.md",
+      "anchor": "source-ml17",
+      "source_urls": [
+        "https://wwj.beijing.gov.cn/bjww/362760/362767/kycgtg/cbxm/kycgcbxm/368266/index.html",
+        "https://divinity-adhoc.library.yale.edu/UnitedBoard/Yenching_University/Box%20374/RG011-374-5705.pdf",
+        "https://divinity-adhoc.library.yale.edu/ChinaCollegesProject/Wellesley/news/studentnews.html"
+      ]
+    },
+    {
+      "id": "ML18",
+      "title": "ML18 許慧琦 艷名昭彰的都市新寵 1930年代前後的北平女招待",
+      "file": "sources/06-mainland-1929-1949.md",
+      "anchor": "source-ml18",
+      "source_urls": [
+        "https://www.ntmofa.gov.tw/News_Publish_Content.aspx?n=3143&psn=101799&s=101806"
+      ]
+    },
+    {
+      "id": "ML19",
+      "title": "ML19 舊時天橋的兩次改造",
+      "file": "sources/06-mainland-1929-1949.md",
+      "anchor": "source-ml19",
+      "source_urls": [
+        "https://www.beijing.gov.cn/renwen/sy/whkb/201907/t20190731_1866670.html"
+      ]
+    },
+    {
+      "id": "ML20",
+      "title": "ML20 人民日報 1949年2月20日第1版 北平開始呈現新氣象",
+      "file": "sources/06-mainland-1929-1949.md",
+      "anchor": "source-ml20",
+      "source_urls": [
+        "https://cn.govopendata.com/renminribao/1949/02/20/1/"
+      ]
+    },
+    {
+      "id": "ML21",
+      "title": "ML21 人民日報 1949年8月4日第5版 三輪工人合作社等",
+      "file": "sources/06-mainland-1929-1949.md",
+      "anchor": "source-ml21",
+      "source_urls": [
+        "https://cn.govopendata.com/renminribao/1949/08/04/5/"
+      ]
+    },
+    {
+      "id": "ML22",
+      "title": "ML22 國家發展委員會檔案管理局 金圓券的發行與流通",
+      "file": "sources/06-mainland-1929-1949.md",
+      "anchor": "source-ml22",
+      "source_urls": [
+        "https://www.archives.gov.tw/tw/arctw/69-2018.html"
+      ]
+    },
+    {
+      "id": "ML23",
+      "title": "ML23 中國銀行 力主廢兩改元 積極參與幣制改革工作",
+      "file": "sources/06-mainland-1929-1949.md",
+      "anchor": "source-ml23",
+      "source_urls": [
+        "https://www.boc.cn/aboutboc/ab7/200809/t20080926_6917.html"
+      ]
+    },
+    {
+      "id": "ML24",
+      "title": "ML24 法務部歷史法條 1930年民法 1931年親屬編施行法",
+      "file": "sources/06-mainland-1929-1949.md",
+      "anchor": "source-ml24",
+      "source_urls": [
+        "https://mojlaw.moj.gov.tw/LawRelaShow.aspx?ecase=%EF%BC%8840%EF%BC%89%E5%8F%B0%E9%9B%BB%E5%8F%83&ecode=I00100&edate=19511229&eno=477&id=FE073210&relateLawName=%EF%BC%8840%EF%BC%89%E5%8F%B0%E9%9B%BB%E5%8F%83%E5%AD%97%E7%AC%AC+477+%E8%99%9F&tbl=ferela&type=E"
+      ]
+    },
+    {
+      "id": "ML25",
+      "title": "ML25 香港記憶 香港長衫的過渡期1930 1940年代",
+      "file": "sources/06-mainland-1929-1949.md",
+      "anchor": "source-ml25",
+      "source_urls": [
+        "https://www.hkmemory.hk/sc/collections-cheongsam-development-1930s_1940s.html"
+      ]
+    },
+    {
+      "id": "ML26",
+      "title": "ML26 人民銀行〈追尋金融紅色印記〉",
+      "file": "sources/07-institutions.md",
+      "anchor": "source-ml26",
+      "source_urls": [
+        "https://www.pbc.gov.cn/redianzhuanti/118742/4248835/4248875/4268169/index.html"
+      ]
+    },
+    {
+      "id": "ML27",
+      "title": "ML27 北京市人大網站轉載 北京日報 〈北平解放的號角從這裡吹響〉 2021年9月16日",
+      "file": "sources/07-institutions.md",
+      "anchor": "source-ml27",
+      "source_urls": [
+        "https://www.bjrd.gov.cn/zyfb/zt/qzzggcdcl100zn/hsyj/202109/t20210916_2503265.html",
+        "https://wb.flk.npc.gov.cn/flfg/PDF/d9c87e17d1d64cd9907e76731d37db68.pdf"
+      ]
+    },
+    {
+      "id": "ML28",
+      "title": "ML28 中央駐澳聯絡辦〈中國貨幣〉 2014",
+      "file": "sources/07-institutions.md",
+      "anchor": "source-ml28",
+      "source_urls": [
+        "https://www.zlb.gov.cn/2014-01/04/c_125956267.htm"
+      ]
+    },
+    {
+      "id": "ML29",
+      "title": "ML29 中國人大網〈我國民事立法的歷史發展與最新成就〉",
+      "file": "sources/07-institutions.md",
+      "anchor": "source-ml29",
+      "source_urls": [
+        "https://www.npc.gov.cn/c2/c189/c222/201905/t20190522_92493.html"
+      ]
+    },
+    {
+      "id": "ML30",
+      "title": "ML30 財政部〈關於糧票的記憶〉",
+      "file": "sources/07-institutions.md",
+      "anchor": "source-ml30",
+      "source_urls": [
+        "https://www.mof.gov.cn/zhuantihuigu/czgg0000_1/czgg0000/200811/t20081106_88273.htm"
+      ]
+    },
+    {
+      "id": "NT01",
+      "title": "NT01 戰後初期臺灣糧食管制",
+      "file": "sources/08-taiwan-1929-1949.md",
+      "anchor": "source-nt01",
+      "source_urls": [
+        "https://ws.th.gov.tw/Download.ashx?n=NDAxMDY2MzAzLnBkZg%3D%3D&u=LzAwMi9USC90anBkZjIwMjQxMDE1L3Zhci93d3cvaHRtbC9uZXdfc2l0ZS8wNXB1Ymxpc2gvMDNwdWJsaXNocXVlcnkvMDJqb3VybmFsL3RqLzQwMTA2NjMwMy5wZGY%3D",
+        "https://toaj.stpi.niar.org.tw/index/journal/volume/article/4b1141f989ace96b0189aee3bfcf0019"
+      ]
+    },
+    {
+      "id": "NT02",
+      "title": "NT02 日治時期漢人女裝",
+      "file": "sources/08-taiwan-1929-1949.md",
+      "anchor": "source-nt02",
+      "source_urls": [
+        "https://women.nmth.gov.tw/?p=1900"
+      ]
+    },
+    {
+      "id": "NT03",
+      "title": "NT03 吳新榮1940年8月21日日記",
+      "file": "sources/08-taiwan-1929-1949.md",
+      "anchor": "source-nt03",
+      "source_urls": [
+        "https://thmcenter.twcenter.org.tw/frontend/diarydetail.jsp?number=CD00007_0131"
+      ]
+    },
+    {
+      "id": "NT04",
+      "title": "NT04 戰後學校教育的國語運動",
+      "file": "sources/08-taiwan-1929-1949.md",
+      "anchor": "source-nt04",
+      "source_urls": [
+        "https://tdr.lib.ntu.edu.tw/handle/123456789/84324?mode=full"
+      ]
+    },
+    {
+      "id": "NT05",
+      "title": "NT05 1949年新臺幣發行",
+      "file": "sources/08-taiwan-1929-1949.md",
+      "anchor": "source-nt05",
+      "source_urls": [
+        "https://art.archives.gov.tw/tw/art/1864.html",
+        "https://www.archives.gov.tw/tw/arctw/69-1989.html"
+      ]
+    },
+    {
+      "id": "NT06",
+      "title": "NT06 臺灣省戒嚴時期",
+      "file": "sources/08-taiwan-1929-1949.md",
+      "anchor": "source-nt06",
+      "source_urls": [
+        "https://memory.nhrm.gov.tw/NormalNode/Detail/96?MenuNode=14"
+      ]
+    },
+    {
+      "id": "NT07",
+      "title": "NT07 戰後臺灣人口移出與移入",
+      "file": "sources/08-taiwan-1929-1949.md",
+      "anchor": "source-nt07",
+      "source_urls": [
+        "https://www.ntl.edu.tw/public/Attachment/811615572091.pdf"
+      ]
+    },
+    {
+      "id": "NT08",
+      "title": "NT08 1949年2月花蓮物價",
+      "file": "sources/08-taiwan-1929-1949.md",
+      "anchor": "source-nt08",
+      "source_urls": [
+        "https://tcmb.culture.tw/zh-tw/detail?id=513601&indexCode=Culture_Object"
+      ]
+    },
+    {
+      "id": "NT09",
+      "title": "NT09 臺大宿舍與萬新鐵路回憶",
+      "file": "sources/08-taiwan-1929-1949.md",
+      "anchor": "source-nt09",
+      "source_urls": [
+        "https://ntualumnibm.ntu.edu.tw/bm.bimonthly.article/detail/sn/4114"
+      ]
+    },
+    {
+      "id": "NT10",
+      "title": "NT10 臺灣戰時動員與傷亡名冊",
+      "file": "sources/08-taiwan-1929-1949.md",
+      "anchor": "source-nt10",
+      "source_urls": [
+        "https://file.moc.gov.tw/Download.ashx?n=MDY3X%2BeUsemdluWci%2BelnuekvuOAiuelreelnuewv%2BOAi%2BWIhuaekOiHuueBo%2BeahOaIsOaZguWLleWToeiIh%2BiHuuS6uuWCt%2BS6oeKKmemNvua3keaVj%2BOAgeayiOaYseW7t%2BOAgemZs%2Bafj%2BajlS5wZGY%3D&u=LzAwMS9VcGxvYWQvNTI4L3JlbGZpbGUvMTQ3MDkvMjAzMDcxL2NmYTdkODZkLTk0NWYtNDc4Yi04MmEyLTFkYjgxZjgxNmJjZS5wZGY%3D"
+      ]
+    },
+    {
+      "id": "NT11",
+      "title": "NT11 二二八事件日期與過程",
+      "file": "sources/08-taiwan-1929-1949.md",
+      "anchor": "source-nt11",
+      "source_urls": [
+        "https://www.228.org.tw/intro"
+      ]
+    },
+    {
+      "id": "NT12",
+      "title": "NT12 1949年花蓮租佃問答",
+      "file": "sources/08-taiwan-1929-1949.md",
+      "anchor": "source-nt12",
+      "source_urls": [
+        "https://tcmb.culture.tw/zh-tw/detail?id=513681&indexCode=Culture_Object"
+      ]
+    },
+    {
+      "id": "NT13",
+      "title": "NT13 霧社事件與強制遷移",
+      "file": "sources/08-taiwan-1929-1949.md",
+      "anchor": "source-nt13",
+      "source_urls": [
+        "https://wwwacc.ntl.edu.tw/public/Attachment/0112013474327.pdf",
+        "https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2017.025.0196.0039"
+      ]
+    },
+    {
+      "id": "NT14",
+      "title": "NT14 滿洲國普通人生活研究",
+      "file": "sources/09-northeast-1929-1949.md",
+      "anchor": "source-nt14",
+      "source_urls": [
+        "https://etheses.whiterose.ac.uk/id/eprint/22326/",
+        "https://etheses.whiterose.ac.uk/id/eprint/22326/1/Doctoral%20Thesis%20Qiunan%20Li%20SEAS%20University%20of%20Sheffield.pdf"
+      ]
+    },
+    {
+      "id": "NT15",
+      "title": "NT15 瀋陽滿鐵職工住宅",
+      "file": "sources/09-northeast-1929-1949.md",
+      "anchor": "source-nt15",
+      "source_urls": [
+        "https://eprints.lib.hokudai.ac.jp/dspace/bitstream/2115/42532/1/CUHC2009_Tang-Mori.pdf"
+      ]
+    },
+    {
+      "id": "NT16",
+      "title": "NT16 殖民城市大連的形成",
+      "file": "sources/09-northeast-1929-1949.md",
+      "anchor": "source-nt16",
+      "source_urls": [
+        "https://www.jstage.jst.go.jp/article/jjhg1948/37/5/37_5_438/_article"
+      ]
+    },
+    {
+      "id": "NT17",
+      "title": "NT17 哈爾濱猶太社群史",
+      "file": "sources/09-northeast-1929-1949.md",
+      "anchor": "source-nt17",
+      "source_urls": [
+        "https://www.jewsofchina.org/detailed-history-of-harbin"
+      ]
+    },
+    {
+      "id": "NT18",
+      "title": "NT18 1949年東北銀行跨區匯兌",
+      "file": "sources/09-northeast-1929-1949.md",
+      "anchor": "source-nt18",
+      "source_urls": [
+        "https://www.hljszw.org.cn/home/book/info/get_id/104651.html"
+      ]
+    },
+    {
+      "id": "NT19",
+      "title": "NT19 1951年東北幣收兌防錯參照",
+      "file": "sources/09-northeast-1929-1949.md",
+      "anchor": "source-nt19",
+      "source_urls": [
+        "https://cn.govopendata.com/renminribao/1951/04/01/1/",
+        "https://www.pbc.gov.cn/redianzhuanti/118742/4248835/4248875/4268169/index.html"
+      ]
+    },
+    {
+      "id": "NT20",
+      "title": "NT20 1950年關東幣收兌防錯參照",
+      "file": "sources/09-northeast-1929-1949.md",
+      "anchor": "source-nt20",
+      "source_urls": [
+        "https://cn.govopendata.com/renminribao/1950/06/19/2/"
+      ]
+    },
+    {
+      "id": "NT21",
+      "title": "NT21 1949年瀋陽國營工廠福利",
+      "file": "sources/09-northeast-1929-1949.md",
+      "anchor": "source-nt21",
+      "source_urls": [
+        "https://cn.govopendata.com/renminribao/1949/11/01/2/"
+      ]
+    },
+    {
+      "id": "NT22",
+      "title": "NT22 1949年東北鐵路職工生活",
+      "file": "sources/09-northeast-1929-1949.md",
+      "anchor": "source-nt22",
+      "source_urls": [
+        "https://cn.govopendata.com/renminribao/1949/05/30/3/"
+      ]
+    },
+    {
+      "id": "NT23",
+      "title": "NT23 1949年大連領館撤退外交檔案",
+      "file": "sources/09-northeast-1929-1949.md",
+      "anchor": "source-nt23",
+      "source_urls": [
+        "https://history.state.gov/historicaldocuments/frus1949v08/d1107",
+        "https://history.state.gov/historicaldocuments/frus1949v08/d1085"
+      ]
+    },
+    {
+      "id": "NT24",
+      "title": "NT24 1948年遼瀋戰役日期",
+      "file": "sources/09-northeast-1929-1949.md",
+      "anchor": "source-nt24",
+      "source_urls": [
+        "https://www.mod.gov.cn/gfbw/gfjy_index/js_214151/4911864.html"
+      ]
+    },
+    {
+      "id": "NT25",
+      "title": "NT25 1929年中東鐵路與俄僑身分",
+      "file": "sources/09-northeast-1929-1949.md",
+      "anchor": "source-nt25",
+      "source_urls": [
+        "https://journals.rudn.ru/russian-history/article/view/50875"
+      ]
+    },
+    {
+      "id": "NT26",
+      "title": "NT26 1946年哈爾濱政權轉換",
+      "file": "sources/09-northeast-1929-1949.md",
+      "anchor": "source-nt26",
+      "source_urls": [
+        "https://www.hljszw.org.cn/news/2457.html"
+      ]
+    },
+    {
+      "id": "NT27",
+      "title": "NT27 1945年蘇聯對日宣戰聲明",
+      "file": "sources/09-northeast-1929-1949.md",
+      "anchor": "source-nt27",
+      "source_urls": [
+        "https://history.state.gov/historicaldocuments/frus1945Berlinv02/d1382"
+      ]
+    },
+    {
+      "id": "NT28",
+      "title": "NT28 1949年7月山海關貨幣牌價",
+      "file": "sources/09-northeast-1929-1949.md",
+      "anchor": "source-nt28",
+      "source_urls": [
+        "https://rmrb.zhouenlai.info/%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%EF%BC%881946-2003%EF%BC%89/1949/07/1949-07-30.htm"
+      ]
+    },
+    {
+      "id": "CH01",
+      "title": "CH01 美國國務院歷史辦公室 第二次鴉片戰爭與天津條約綜述",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch01",
+      "source_urls": [
+        "https://history.state.gov//milestones/1830-1860/china-2"
+      ]
+    },
+    {
+      "id": "CH02",
+      "title": "CH02 國史館臺灣文獻館 〈日治時期首任民政長官 水野遵〉",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch02",
+      "source_urls": [
+        "https://www.th.gov.tw/Epaper_Content/236/8791/"
+      ]
+    },
+    {
+      "id": "CH03",
+      "title": "CH03 農業知識入口網 〈欽差行臺介紹〉",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch03",
+      "source_urls": [
+        "https://kmweb.moa.gov.tw/subject/subject.php?id=27217"
+      ]
+    },
+    {
+      "id": "CH04",
+      "title": "CH04 日本亞洲歷史資料中心JACAR 關東州 滿洲等地年表",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch04",
+      "source_urls": [
+        "https://www.jacar.go.jp/english/exhibition/glossary_en/gaichitonaichi/table/history2.html"
+      ]
+    },
+    {
+      "id": "CH05",
+      "title": "CH05 JACAR 臺灣 朝鮮年表",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch05",
+      "source_urls": [
+        "https://www.jacar.go.jp/english/exhibition/glossary_en/gaichitonaichi/table/history1.html"
+      ]
+    },
+    {
+      "id": "CH06",
+      "title": "CH06 廣州市政府 〈歷史沿革〉 來源 廣州年鑑",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch06",
+      "source_urls": [
+        "https://www.gz.gov.cn/zlgz/whgz/lswh/lsyg/content/post_8221264.html"
+      ]
+    },
+    {
+      "id": "CH07",
+      "title": "CH07 上海市檔案館 〈館藏國民政府時期上海地方行政機構檔案指南〉",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch07",
+      "source_urls": [
+        "https://www.shda.gov.cn/daly/gczn/202509/t20250919_74648.html"
+      ]
+    },
+    {
+      "id": "CH08",
+      "title": "CH08 FRUS 1929卷二 第397號伯力議定書 第76號10月情勢報告",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch08",
+      "source_urls": [
+        "https://history.state.gov/historicaldocuments/frus1929v02/d397",
+        "https://history.state.gov/historicaldocuments/frus1929v02/d76"
+      ]
+    },
+    {
+      "id": "CH09",
+      "title": "CH09 檔案管理局 〈抗戰前的剿共〉",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch09",
+      "source_urls": [
+        "https://art.archives.gov.tw/tw/art/1890.html"
+      ]
+    },
+    {
+      "id": "CH10",
+      "title": "CH10 國立臺灣歷史博物館 〈霧社事件始末〉藏品解說",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch10",
+      "source_urls": [
+        "https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2017.025.0196.0038"
+      ]
+    },
+    {
+      "id": "CH11",
+      "title": "CH11 JACAR 日美交涉展〈戰爭與外交〉段落",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch11",
+      "source_urls": [
+        "https://www.jacar.go.jp/english/exhibition/nichibei/negotiation/index3.html"
+      ]
+    },
+    {
+      "id": "CH12",
+      "title": "CH12 FRUS 1931至1941卷一 第121號",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch12",
+      "source_urls": [
+        "https://history.state.gov/historicaldocuments/frus1931-41v01/d121"
+      ]
+    },
+    {
+      "id": "CH13",
+      "title": "CH13 FRUS 1935卷三 第613號",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch13",
+      "source_urls": [
+        "https://history.state.gov/historicaldocuments/frus1935v03/d613"
+      ]
+    },
+    {
+      "id": "CH14",
+      "title": "CH14 中央氣象署 1935年4月21日新竹 臺中地震",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch14",
+      "source_urls": [
+        "https://scweb.cwa.gov.tw/zh-tw/liquefaction/details/190112"
+      ]
+    },
+    {
+      "id": "CH15",
+      "title": "CH15 檔案管理局 〈西安事變〉",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch15",
+      "source_urls": [
+        "https://art.archives.gov.tw/tw/art/1899.html"
+      ]
+    },
+    {
+      "id": "CH16",
+      "title": "CH16 JACAR 〈帕奈號事件與日美關係〉",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch16",
+      "source_urls": [
+        "https://www.jacar.go.jp/exhibition/nichibei/reference/index11.html"
+      ]
+    },
+    {
+      "id": "CH17",
+      "title": "CH17 國史館臺灣文獻館 〈內地式改姓名の仕方〉及〈文藝臺灣〉",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch17",
+      "source_urls": [
+        "https://www.th.gov.tw/Epaper_Content/236/6889/",
+        "https://www.th.gov.tw/Epaper_Content/236/6827/"
+      ]
+    },
+    {
+      "id": "CH19",
+      "title": "CH19 FRUS 1940卷四 第349 343號",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch19",
+      "source_urls": [
+        "https://history.state.gov/historicaldocuments/frus1940v04/d349",
+        "https://history.state.gov/historicaldocuments/frus1940v04/d343"
+      ]
+    },
+    {
+      "id": "CH20",
+      "title": "CH20 國史館臺灣文獻館 〈皇民化時期臺灣人改姓名的規定〉",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch20",
+      "source_urls": [
+        "https://www.th.gov.tw/Epaper_Content/236/8621/"
+      ]
+    },
+    {
+      "id": "CH21",
+      "title": "CH21 國立臺灣歷史博物館 〈臺灣總督府〉藏品說明",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch21",
+      "source_urls": [
+        "https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2001.008.0081.0002"
+      ]
+    },
+    {
+      "id": "CH22",
+      "title": "CH22 美國國家檔案館 Surrender of Japan 1945",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch22",
+      "source_urls": [
+        "https://www.archives.gov/milestone-documents/surrender-of-japan"
+      ]
+    },
+    {
+      "id": "CH23",
+      "title": "CH23 國史館 第七批兩蔣日記數位檔公開說明",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch23",
+      "source_urls": [
+        "https://www.drnh.gov.tw/p/406-1003-16158%2Cr46.php?Lang=zh-tw"
+      ]
+    },
+    {
+      "id": "CH24",
+      "title": "CH24 檔案管理局 〈戰後初期的行政措施與政治事件〉及〈日本投降與遷臺初期的經濟問題〉",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch24",
+      "source_urls": [
+        "https://art.archives.gov.tw/tw/art/1745.html",
+        "https://art.archives.gov.tw/tw/art/1359.html"
+      ]
+    },
+    {
+      "id": "CH25",
+      "title": "CH25 中央銀行券幣數位博物館 〈民國時期〉",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch25",
+      "source_urls": [
+        "https://museum.cbc.gov.tw/web/zh-tw/history/develop/roc"
+      ]
+    },
+    {
+      "id": "CH26",
+      "title": "CH26 中研院臺史所 二二八及白色恐怖相關史料 T0653編目說明 檔案管理局整合平台轉載",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch26",
+      "source_urls": [
+        "https://across.archives.gov.tw/naahyint/search_detail.jsp?hotreading_sn=185740&hyint_id=10070"
+      ]
+    },
+    {
+      "id": "CH27",
+      "title": "CH27 FRUS 1949卷九第684號 FRUS 1948卷八第351號",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch27",
+      "source_urls": [
+        "https://history.state.gov/historicaldocuments/frus1949v09/d684",
+        "https://history.state.gov/historicaldocuments/frus1948v08/d351"
+      ]
+    },
+    {
+      "id": "CH28",
+      "title": "CH28 遼寧省民政廳 遼瀋戰役紀念館介紹",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch28",
+      "source_urls": [
+        "https://mzt.ln.gov.cn/mzt/hdzl/decqgdmpczl/D98C976659C94F3FB01D54067339830D/index.shtml"
+      ]
+    },
+    {
+      "id": "CH29",
+      "title": "CH29 北京市公安局警察博物館 1949接管警察機關史料",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch29",
+      "source_urls": [
+        "https://gaj.beijing.gov.cn/jcbwg/yjcg/jsyj/202006/t20200628_1933167.html"
+      ]
+    },
+    {
+      "id": "CH30",
+      "title": "CH30 FRUS 1949卷八 第316 319 320號南京電報",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch30",
+      "source_urls": [
+        "https://history.state.gov/historicaldocuments/frus1949v08/d316",
+        "https://history.state.gov//historicaldocuments/frus1949v08/d319",
+        "https://history.state.gov//historicaldocuments/frus1949v08/d320"
+      ]
+    },
+    {
+      "id": "CH31",
+      "title": "CH31 檔案管理局 〈戒嚴令〉及原令檔案導讀",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch31",
+      "source_urls": [
+        "https://art.archives.gov.tw/tw/art/2159.html",
+        "https://art.archives.gov.tw/tw/art/1318-12335.html"
+      ]
+    },
+    {
+      "id": "CH32",
+      "title": "CH32 中央銀行 央行臉書貼文系列專書III 印刷頁103附近",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch32",
+      "source_urls": [
+        "https://www.cbc.gov.tw/public/data/data/%E4%B8%AD%E5%A4%AE%E9%8A%80%E8%A1%8C%E8%87%89%E6%9B%B8%E8%B2%BC%E6%96%87%E7%B3%BB%E5%88%97%E5%B0%88%E6%9B%B8III.pdf"
+      ]
+    },
+    {
+      "id": "CH33",
+      "title": "CH33 FRUS 1949卷八 第619號",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch33",
+      "source_urls": [
+        "https://history.state.gov/historicaldocuments/frus1949v08/d619"
+      ]
+    },
+    {
+      "id": "CH34",
+      "title": "CH34 立法院民主議政園區 〈臺灣省參議會成立 大時代下的內外挑戰〉 總統府歷任總統展",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch34",
+      "source_urls": [
+        "https://daap.ly.gov.tw/tw/daap/404-9397.html",
+        "https://www.president.gov.tw/qrcode/16c"
+      ]
+    },
+    {
+      "id": "CH36",
+      "title": "CH36 美國國務院歷史辦公室 The Chinese Revolution of 1949",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch36",
+      "source_urls": [
+        "https://history.state.gov/milestones/1945-1952/chinese-rev"
+      ]
+    },
+    {
+      "id": "CH37",
+      "title": "CH37 國家人權博物館國家人權記憶庫 四六事件說明",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch37",
+      "source_urls": [
+        "https://memory.nhrm.gov.tw/NormalNode/Detail/77?MenuNode=14"
+      ]
+    },
+    {
+      "id": "CH38",
+      "title": "CH38 中國國家博物館 〈省港罷工紀念章〉及〈省港罷工委員會職員證章〉",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch38",
+      "source_urls": [
+        "https://www.chnmuseum.cn/zp/zpml/gmww/202104/t20210407_249612.shtml",
+        "https://www.chnmuseum.cn/zp/zpml/gmww/202112/t20211214_253209.shtml"
+      ]
+    },
+    {
+      "id": "CH39",
+      "title": "CH39 耶魯神學院圖書館 The Nanking Massacre Project About the Project",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch39",
+      "source_urls": [
+        "https://divinity-adhoc.library.yale.edu/nanking/about.html"
+      ]
+    },
+    {
+      "id": "CH40",
+      "title": "CH40 檔案管理局 〈金門古寧頭戰役〉與〈尹俊將軍戡亂戰役心得報告〉",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch40",
+      "source_urls": [
+        "https://art.archives.gov.tw/tw/art/2062.html",
+        "https://art.archives.gov.tw/tw/art/2062-15086.html"
+      ]
+    },
+    {
+      "id": "CH41",
+      "title": "CH41 中國國民黨革命委員會 〈孫中山與政黨創設〉",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch41",
+      "source_urls": [
+        "https://www.minge.gov.cn/n1/2026/0401/c415153-40693584.html"
+      ]
+    },
+    {
+      "id": "CH42",
+      "title": "CH42 中國國家博物館 〈袁世凱稱帝後發布的洪憲元年命令〉 FRUS 1916第73號",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch42",
+      "source_urls": [
+        "https://www.chnmuseum.cn/zp/zpml/gmww/202104/t20210402_249524.shtml",
+        "https://history.state.gov/historicaldocuments/frus1916/d73"
+      ]
+    },
+    {
+      "id": "CH43",
+      "title": "CH43 湖南省政府 〈蔡鍔故居和紀念館〉",
+      "file": "sources/10-full-timeline.md",
+      "anchor": "source-ch43",
+      "source_urls": [
+        "https://www.hunan.gov.cn/hnszf/c101481/202108/t20210830_20411787.html"
+      ]
+    },
+    {
+      "id": "HBX01",
+      "title": "HBX01 上海市工人生活程度原始家計調查",
+      "file": "sources/11-household-shanghai-beijing.md",
+      "anchor": "source-hbx01",
+      "source_urls": [
+        "https://commons.wikimedia.org/wiki/File:NLC511-027032013013087-51584_上海市工人生活程度.pdf",
+        "https://upload.wikimedia.org/wikipedia/commons/c/c1/NLC511-027032013013087-51584_%E4%B8%8A%E6%B5%B7%E5%B8%82%E5%B7%A5%E4%BA%BA%E7%94%9F%E6%B4%BB%E7%A8%8B%E5%BA%A6.pdf"
+      ]
+    },
+    {
+      "id": "HBX10",
+      "title": "HBX10 北平生活費之分析原始家計調查",
+      "file": "sources/11-household-shanghai-beijing.md",
+      "anchor": "source-hbx10",
+      "source_urls": [
+        "https://commons.wikimedia.org/wiki/File:NLC511-03004846-70361_北平生活費之分析.pdf",
+        "https://upload.wikimedia.org/wikipedia/commons/a/a6/NLC511-03004846-70361_%E5%8C%97%E5%B9%B3%E7%94%9F%E6%B4%BB%E8%B2%BB%E4%B9%8B%E5%88%86%E6%9E%90.pdf"
+      ]
+    },
+    {
+      "id": "HBX20",
+      "title": "HBX20 北京物價工資與生活程度原始研究",
+      "file": "sources/11-household-shanghai-beijing.md",
+      "anchor": "source-hbx20",
+      "source_urls": [
+        "https://www.bnasie.eu/BN/Books?ID=263",
+        "https://www.bnasie.eu/Asset/Source/bnBook_ID-263_No-01.pdf"
+      ]
+    },
+    {
+      "id": "HBX25",
+      "title": "HBX25 1940年燕京生活費指數原刊",
+      "file": "sources/11-household-shanghai-beijing.md",
+      "anchor": "source-hbx25",
+      "source_urls": [
+        "https://divinity-adhoc.library.yale.edu/UnitedBoard/Yenching_University/Box%20372/RG011-372-5697.pdf"
+      ]
+    },
+    {
+      "id": "HBX30",
+      "title": "HBX30 1920年上海英文指南原書",
+      "file": "sources/11-household-shanghai-beijing.md",
+      "anchor": "source-hbx30",
+      "source_urls": [
+        "https://commons.wikimedia.org/wiki/File:C._E._Darwent_-_Shanghai_Handbook_(1920).pdf",
+        "https://upload.wikimedia.org/wikipedia/commons/3/35/C._E._Darwent_-_Shanghai_Handbook_%281920%29.pdf"
+      ]
+    },
+    {
+      "id": "HBX31",
+      "title": "HBX31 1929年北平指南原書",
+      "file": "sources/11-household-shanghai-beijing.md",
+      "anchor": "source-hbx31",
+      "source_urls": [
+        "https://commons.wikimedia.org/wiki/File:NLC416-03jh000655-15634_北平指南.pdf",
+        "https://upload.wikimedia.org/wikipedia/commons/0/0a/NLC416-03jh000655-15634_%E5%8C%97%E5%B9%B3%E6%8C%87%E5%8D%97.pdf"
+      ]
+    },
+    {
+      "id": "HBX40",
+      "title": "HBX40 1930至1934年上海工資率原始調查",
+      "file": "sources/11-household-shanghai-beijing.md",
+      "anchor": "source-hbx40",
+      "source_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/2/2e/SSID-11491425_%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%B9%8B%E5%B7%A5%E8%B3%87%E7%8E%87_%E6%BC%A2%E8%8B%B1%E5%B0%8D%E7%85%A7.pdf"
+      ]
+    },
+    {
+      "id": "HGX01",
+      "title": "HGX01 1942至1943年廣州市民配米",
+      "file": "sources/12-guangzhou-primary.md",
+      "anchor": "source-hgx01",
+      "source_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/1/16/NLC404-01J003413-34269_%E4%B8%AD%E5%9C%8B%E7%B6%93%E6%BF%9F_1944%E5%B9%B42%E5%8D%B76%E2%80%9307%E6%9C%9F.pdf"
+      ]
+    },
+    {
+      "id": "HGX02",
+      "title": "HGX02 1947年廣州市物價工價與生活費指數",
+      "file": "sources/12-guangzhou-primary.md",
+      "anchor": "source-hgx02",
+      "source_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/3/3f/NLC404-01J001031-15969_%E5%BB%A3%E6%9D%B1%E7%B5%B1%E8%A8%88%E6%9C%88%E5%A0%B1_1947%E5%B9%B41%E5%8D%B75%E6%9C%9F.pdf"
+      ]
+    },
+    {
+      "id": "HGX03",
+      "title": "HGX03 廣州市市政例規章程彙編",
+      "file": "sources/12-guangzhou-primary.md",
+      "anchor": "source-hgx03",
+      "source_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/0/08/NLC416-16jh000518-87403_%E5%BB%A3%E5%B7%9E%E5%B8%82%E5%B8%82%E6%94%BF%E4%BE%8B%E8%A6%8F%E7%AB%A0%E7%A8%8B%E5%8C%AF%E7%B7%A8.pdf",
+        "https://commons.wikimedia.org/wiki/File:NLC416-16jh000518-87403_廣州市市政例規章程匯編.pdf"
+      ]
+    },
+    {
+      "id": "HGX04",
+      "title": "HGX04 1919年廣州指南原書",
+      "file": "sources/12-guangzhou-primary.md",
+      "anchor": "source-hgx04",
+      "source_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/8/8f/NLC416-07jh010050-36677_%E5%BB%A3%E5%B7%9E%E6%8C%87%E5%8D%97.pdf",
+        "https://commons.wikimedia.org/wiki/File:NLC416-07jh010050-36677_廣州指南.pdf"
+      ]
+    },
+    {
+      "id": "HGX05",
+      "title": "HGX05 1928年廣州歷年工資指數原表",
+      "file": "sources/12-guangzhou-primary.md",
+      "anchor": "source-hgx05",
+      "source_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/d/d0/NLC404-00J012570-92108_%E7%B5%B1%E8%A8%88%E5%BD%99%E5%88%8A_1928%E5%B9%B4%E7%AC%AC%E4%B8%89%E6%9C%9F.pdf"
+      ]
+    },
+    {
+      "id": "HGX06",
+      "title": "HGX06 1936年廣州零售物價原表",
+      "file": "sources/12-guangzhou-primary.md",
+      "anchor": "source-hgx06",
+      "source_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/5/50/NLC404-01J001883-55781_%E9%87%91%E8%9E%8D%E7%89%A9%E5%83%B9%E6%9C%88%E5%88%8A_1936%E5%B9%B41%E5%8D%B712%E6%9C%9F.pdf"
+      ]
+    },
+    {
+      "id": "HGX07",
+      "title": "HGX07 廣州工人家庭之研究原始調查",
+      "file": "sources/12-guangzhou-primary.md",
+      "anchor": "source-hgx07",
+      "source_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/b/be/NLC416-08jh003764-21945_%E5%BB%A3%E5%B7%9E%E5%B7%A5%E4%BA%BA%E5%AE%B6%E5%BA%AD%E4%B9%8B%E7%A0%94%E7%A9%B6.pdf",
+        "https://commons.wikimedia.org/wiki/File:NLC416-08jh003764-21945_廣州工人家庭之研究.pdf"
+      ]
+    },
+    {
+      "id": "HGX08",
+      "title": "HGX08 1869年廣州服飾與道具的棚拍照片",
+      "file": "sources/12-guangzhou-primary.md",
+      "anchor": "source-hgx08",
+      "source_urls": [
+        "https://wellcomecollection.org/works/t3yf8kgh/images?id=ha5yb6kq",
+        "https://wellcomecollection.org/works/t3yf8kgh"
+      ]
+    },
+    {
+      "id": "HGX09",
+      "title": "HGX09 1873年出版圖文中的船上勞動與當樓",
+      "file": "sources/12-guangzhou-primary.md",
+      "anchor": "source-hgx09",
+      "source_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/6/64/Illustrations_of_China_and_its_people_-_a_series_of_two_hundred_photographs%2C_with_letterpress_descriptive_of_the_places_and_people_represented._%28IA_gri_33125010849434%29.pdf"
+      ]
+    },
+    {
+      "id": "HCX01",
+      "title": "HCX01 上海新式婚禮與市辦集團結婚",
+      "file": "sources/13-family-culture.md",
+      "anchor": "source-hcx01",
+      "source_urls": [
+        "https://escholarship.org/content/qt8d59b6zn/qt8d59b6zn.pdf#page=110",
+        "https://escholarship.org/uc/item/8d59b6zn"
+      ]
+    },
+    {
+      "id": "HCX02",
+      "title": "HCX02 上海貧困家庭殯葬與慈善收埋",
+      "file": "sources/13-family-culture.md",
+      "anchor": "source-hcx02",
+      "source_urls": [
+        "https://www.virtualshanghai.net/Asset/Source/dbArticle_ID-76_No-01.pdf#page=4",
+        "https://www.virtualshanghai.net/texts/articles?ID=76"
+      ]
+    },
+    {
+      "id": "HCX06",
+      "title": "HCX06 1877年廣州家庭 祭祀與水上學校",
+      "file": "sources/13-family-culture.md",
+      "anchor": "source-hcx06",
+      "source_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/f/fa/Fourteen_months_in_Canton_%28IA_cu31924023216819%29.pdf#page=133"
+      ]
+    },
+    {
+      "id": "HCX09",
+      "title": "HCX09 新竹助產簿與多種文字記事",
+      "file": "sources/13-family-culture.md",
+      "anchor": "source-hcx09",
+      "source_urls": [
+        "https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.003.0033",
+        "https://collections.nmth.gov.tw/CollectionContent.aspx?a=132&rno=2020.003.0001",
+        "https://collections.culture.tw/files/11/JPG/20200030001_P141.jpg",
+        "https://collections.culture.tw/files/11/JPG/20200030001_P142.jpg",
+        "https://collections.culture.tw/files/11/JPG/20200030033_P002.jpg"
+      ]
+    },
+    {
+      "id": "HCX10",
+      "title": "HCX10 1901年關西招婚契約",
+      "file": "sources/13-family-culture.md",
+      "anchor": "source-hcx10",
+      "source_urls": [
+        "https://ascdc.digitalarchives.tw/subject_1650.html",
+        "https://archives.ith.sinica.edu.tw/collections_con.php?no=48"
+      ]
+    },
+    {
+      "id": "HCX11",
+      "title": "HCX11 大連學校與家庭的口述歷史研究",
+      "file": "sources/13-family-culture.md",
+      "anchor": "source-hcx11",
+      "source_urls": [
+        "https://eprints.whiterose.ac.uk/id/eprint/153770/3/DRYBURGH%202019%20Re-centring%20education%20in%20Mansh%C5%ABkoku%20(1931-45)%20school%20&%20family%20in%20Chinese%20oral%20history%20%5Bas%20accepted%5D.pdf#page=15",
+        "https://eprints.whiterose.ac.uk/id/eprint/153770/",
+        "https://doi.org/10.1080/09555803.2019.1684344"
+      ]
+    },
+    {
+      "id": "HCX13",
+      "title": "HCX13 1926年哈爾濱名錄的語言教育與照護機構",
+      "file": "sources/13-family-culture.md",
+      "anchor": "source-hcx13",
+      "source_urls": [
+        "https://archive.org/details/VesHarbin/page/n142/mode/1up",
+        "https://archive.org/download/VesHarbin/page/n142.jpg",
+        "https://archive.org/download/VesHarbin/page/n165.jpg"
+      ]
+    },
+    {
+      "id": "HCX15",
+      "title": "HCX15 1926年奉天俄語學校音樂會的研究轉引",
+      "file": "sources/13-family-culture.md",
+      "anchor": "source-hcx15",
+      "source_urls": [
+        "https://www.synologia.ru/a/Дни_русской_культуры_в_Харбине_до_и_после_1931_г."
+      ]
+    },
+    {
+      "id": "HTX01",
+      "title": "HTX01 1937至1938年臺灣家計調查的學術整理",
+      "file": "sources/14-taiwan-northeast-primary.md",
+      "anchor": "source-htx01",
+      "source_urls": [
+        "https://www.tasc.or.jp/assist/archives/h27/pdf/2015_03B_so.pdf"
+      ]
+    },
+    {
+      "id": "HTX02",
+      "title": "HTX02 1936年臺北煙草工場家計的轉錄",
+      "file": "sources/14-taiwan-northeast-primary.md",
+      "anchor": "source-htx02",
+      "source_urls": [
+        "https://www.ntl.edu.tw/public/ntl/4216/%E9%99%B3%E4%BD%B3%E5%BE%B7%E5%85%A8%E6%96%87.pdf"
+      ]
+    },
+    {
+      "id": "HTX03",
+      "title": "HTX03 臺灣家計與貧戶原典的書目導航",
+      "file": "sources/14-taiwan-northeast-primary.md",
+      "anchor": "source-htx03",
+      "source_urls": [
+        "https://homepage.ntu.edu.tw/~ntut019/ltes/CPI.pdf",
+        "https://homepage.ntu.edu.tw/~ntut019/ltes/TEHbook.pdf",
+        "https://ci.nii.ac.jp/ncid/BN15662401"
+      ]
+    },
+    {
+      "id": "HTX04",
+      "title": "HTX04 1948至1949年入臺登記與查驗制度",
+      "file": "sources/14-taiwan-northeast-primary.md",
+      "anchor": "source-htx04",
+      "source_urls": [
+        "https://www.nhrm.gov.tw/WebUPD/nhrm/ResearchReport/55%E6%88%B0%E5%BE%8C%E3%80%8C%E9%BB%91%E5%90%8D%E5%96%AE%E3%80%8D%E5%95%8F%E9%A1%8C%E4%B9%8B%E8%AA%BF%E6%9F%A5%E7%A0%94%E7%A9%B6%E8%A8%88%E7%95%AB.pdf"
+      ]
+    },
+    {
+      "id": "HTX05",
+      "title": "HTX05 1945至1946年奉天日本企業相關避難者日記",
+      "file": "sources/14-taiwan-northeast-primary.md",
+      "anchor": "source-htx05",
+      "source_urls": [
+        "https://www.mitsui-bunko.or.jp/archives/pdf_data/mbr-57_okubo-yoshida.pdf"
+      ]
+    },
+    {
+      "id": "HTX07",
+      "title": "HTX07 1922年鮮滿支交通便覽原始時刻與票價",
+      "file": "sources/14-taiwan-northeast-primary.md",
+      "anchor": "source-htx07",
+      "source_urls": [
+        "https://upload.wikimedia.org/wikipedia/commons/9/93/NDL3457467_%E9%AE%AE%E6%BA%80%E6%94%AF%E4%BA%A4%E9%80%9A%E4%BE%BF%E8%A6%BD_%E5%A4%A7%E6%AD%A311%E5%B9%B42%E6%9C%88%E7%8F%BE%E5%9C%A8.pdf",
+        "https://commons.wikimedia.org/wiki/File:NDL3457467_鮮満支交通便覽_大正11年2月現在.pdf"
+      ]
+    },
+    {
+      "id": "HTX08",
+      "title": "HTX08 臺灣鹽魚與海產消費史研究",
+      "file": "sources/14-taiwan-northeast-primary.md",
+      "anchor": "source-htx08",
+      "source_urls": [
+        "https://www.ith.sinica.edu.tw/quarterly_download.php?filename=153076164412.pdf&name=02%E6%9E%97%E7%8E%89%E8%8C%B90702.pdf"
+      ]
+    },
+    {
+      "id": "HTX09",
+      "title": "HTX09 1925年滿鐵中國職工生計原始調查",
+      "file": "sources/14-taiwan-northeast-primary.md",
+      "anchor": "source-htx09",
+      "source_urls": [
+        "https://d-arch.ide.go.jp/asia_archive/collections/AgenciesMaterial/data/item/ID00302.html",
+        "https://d-arch.ide.go.jp/library/AgenciesMaterial/img/00302_0007.jpg",
+        "https://d-arch.ide.go.jp/library/AgenciesMaterial/img/00302_0013.jpg",
+        "https://d-arch.ide.go.jp/library/AgenciesMaterial/img/00302_0014.jpg",
+        "https://d-arch.ide.go.jp/library/AgenciesMaterial/img/00302_0042.jpg"
+      ]
+    },
+    {
+      "id": "HTX10",
+      "title": "HTX10 1935年盛京時報租屋爭議與量器報道",
+      "file": "sources/14-taiwan-northeast-primary.md",
+      "anchor": "source-htx10",
+      "source_urls": [
+        "https://commons.wikimedia.org/wiki/File:NLC511-023031103010001-77527_盛京時報_第341卷.pdf",
+        "https://upload.wikimedia.org/wikipedia/commons/e/ed/NLC511-023031103010001-77527_%E7%9B%9B%E4%BA%AC%E6%99%82%E5%A0%B1_%E7%AC%AC341%E5%8D%B7.pdf"
+      ]
+    },
+    {
+      "id": "HTX12",
+      "title": "HTX12 1942年興南新聞配給米品質社論",
+      "file": "sources/14-taiwan-northeast-primary.md",
+      "anchor": "source-htx12",
+      "source_urls": [
+        "https://taicool.ith.sinica.edu.tw/browse-news-P2-194204.html",
+        "https://taicool.ith.sinica.edu.tw/eBook.html?pg=ithda-arch-T1119_04031-0004-i",
+        "https://taicool.ith.sinica.edu.tw/ebook/ithda-arch/T1119/04031/ithda-arch-T1119_04031-0004-i.jpg"
+      ]
+    },
+    {
+      "id": "HTX13",
+      "title": "HTX13 1940至1941年臺灣過年與戰時動員研究",
+      "file": "sources/14-taiwan-northeast-primary.md",
+      "anchor": "source-htx13",
+      "source_urls": [
+        "https://www.ith.sinica.edu.tw/quarterly_download.php?filename=139996328912.pdf&name=01%E6%9E%97%E7%8E%89%E8%8C%B93%E6%A0%A1%E7%A8%BF0411.pdf"
+      ]
+    },
+    {
+      "id": "HTX14",
+      "title": "HTX14 1940年臺灣新聞家庭與學校語言社論",
+      "file": "sources/14-taiwan-northeast-primary.md",
+      "anchor": "source-htx14",
+      "source_urls": [
+        "https://taicool.ith.sinica.edu.tw/browse-news-P3-194004.html",
+        "https://taicool.ith.sinica.edu.tw/eBook.html?pg=ithda-arch-T1139_13342-0006"
+      ]
+    },
+    {
+      "id": "HTX15",
+      "title": "HTX15 1905年舊慣調查車夫日用原表",
+      "file": "sources/14-taiwan-northeast-primary.md",
+      "anchor": "source-htx15",
+      "source_urls": [
+        "https://commons.wikimedia.org/wiki/File:NDL801720_臨時台湾旧慣調査会第二部調査経済資料報告_下巻_part4.pdf",
+        "https://upload.wikimedia.org/wikipedia/commons/d/d6/NDL801720_%E8%87%A8%E6%99%82%E5%8F%B0%E6%B9%BE%E6%97%A7%E6%85%A3%E8%AA%BF%E6%9F%BB%E4%BC%9A%E7%AC%AC%E4%BA%8C%E9%83%A8%E8%AA%BF%E6%9F%BB%E7%B5%8C%E6%B8%88%E8%B3%87%E6%96%99%E5%A0%B1%E5%91%8A_%E4%B8%8B%E5%B7%BB_part4.pdf"
+      ]
+    },
+    {
+      "id": "CH44",
+      "title": "CH44 1948年中央機關改制與名稱區分",
+      "file": "sources/14-taiwan-northeast-primary.md",
+      "anchor": "source-ch44",
+      "source_urls": [
+        "https://www.drnh.gov.tw/p/404-1003-14897.php?Lang=zh-tw",
+        "https://collections.culture.tw/nmh_collectionsweb/collection.aspx?GID=MNMAM1M8M4"
+      ]
+    },
+    {
+      "id": "HB01",
+      "title": "HB01 上海日常生活的第一本",
+      "file": "bibliography/README.md",
+      "anchor": "source-hb01",
+      "source_urls": [
+        "https://www.ucpress.edu/books/beyond-the-neon-lights/paper"
+      ]
+    },
+    {
+      "id": "HB02",
+      "title": "HB02 上海女工 工廠與女性人際關係",
+      "file": "bibliography/README.md",
+      "anchor": "source-hb02",
+      "source_urls": [
+        "https://www.nypl.org/research/research-catalog/bib/b11045468"
+      ]
+    },
+    {
+      "id": "HB03",
+      "title": "HB03 北京街道 人力車與基層權力",
+      "file": "bibliography/README.md",
+      "anchor": "source-hb03",
+      "source_urls": [
+        "https://www.ucpress.edu/books/rickshaw-beijing/paper"
+      ]
+    },
+    {
+      "id": "HB04",
+      "title": "HB04 廣州 市政 商人與勞工的制度背景",
+      "file": "bibliography/README.md",
+      "anchor": "source-hb04",
+      "source_urls": [
+        "https://cir.nii.ac.jp/crid/1971712334816193726"
+      ]
+    },
+    {
+      "id": "HB05",
+      "title": "HB05 廣州 粵劇 消遣與道德評判",
+      "file": "bibliography/README.md",
+      "anchor": "source-hb05",
+      "source_urls": [
+        "https://academic.oup.com/book/32900"
+      ]
+    },
+    {
+      "id": "HB06",
+      "title": "HB06 東北 移民 季節性工作與家庭決策",
+      "file": "bibliography/README.md",
+      "anchor": "source-hb06",
+      "source_urls": [
+        "https://press.umich.edu/Books/S/Swallows-and-Settlers",
+        "https://doi.org/10.3998/mpub.22808"
+      ]
+    },
+    {
+      "id": "HB07",
+      "title": "HB07 東北 哈爾濱的多語城市與市民空間",
+      "file": "bibliography/README.md",
+      "anchor": "source-hb07",
+      "source_urls": [
+        "https://www.jstor.org/stable/10.7591/j.ctvv41380"
+      ]
+    },
+    {
+      "id": "HB08",
+      "title": "HB08 臺灣 先補齊地方與人群的基本座標",
+      "file": "bibliography/README.md",
+      "anchor": "source-hb08",
+      "source_urls": [
+        "https://store.linkingbooks.com.tw/product/16104703"
+      ]
+    },
+    {
+      "id": "HB09",
+      "title": "HB09 臺灣 基隆港市 地方社會與身分形成",
+      "file": "bibliography/README.md",
+      "anchor": "source-hb09",
+      "source_urls": [
+        "https://www.jstor.org/stable/j.ctvrs905p",
+        "https://asiacenter.harvard.edu/announcements/asia-center-publications-program-issues-new-titles"
+      ]
+    },
+    {
+      "id": "HB10",
+      "title": "HB10 臺灣 邊區交易 通譯與原住民族",
+      "file": "bibliography/README.md",
+      "anchor": "source-hb10",
+      "source_urls": [
+        "https://www.ucpress.edu/books/outcasts-of-empire/paper",
+        "https://webfiles.ucpress.edu/oa/9780520968806_WEB.pdf"
+      ]
+    },
+    {
+      "id": "HB11",
+      "title": "HB11 跨城比較 醫療 環境與 衛生 觀念",
+      "file": "bibliography/README.md",
+      "anchor": "source-hb11",
+      "source_urls": [
+        "https://www.ucpress.edu/books/hygienic-modernity/hardcover"
+      ]
+    },
+    {
+      "id": "HB12",
+      "title": "HB12 跨地區對話 誰真的會說 國語",
+      "file": "bibliography/README.md",
+      "anchor": "source-hb12",
+      "source_urls": [
+        "https://cup.columbia.edu/book/the-sounds-of-mandarin/9780231557757/"
+      ]
+    }
+  ]
+}
