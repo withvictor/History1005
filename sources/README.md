@@ -4,7 +4,7 @@
 
 [回總目錄](../README.md) · [來源索引](README.md) · [寫作查證清單](../docs/08-writing-checklist.md)
 
-本索引合計 239 筆來源與書目紀錄：227 筆來源註解，以及 12 筆延伸閱讀書目。同書可依不同用途重複索引；這不是 239 部獨立著作。
+本索引合計 263 筆來源與書目紀錄：251 筆來源註解，以及 12 筆延伸閱讀書目。同書可依不同用途重複索引；這不是 263 部獨立著作。
 
 來源編號可從正文點選跳轉。每一項分清實際核讀內容、同時代或後來研究、適用範圍與存取限制。[CN16](01-shanghai-beijing.md#source-cn16)與[HB03](../bibliography/README.md#source-hb03)、[CN17](01-shanghai-beijing.md#source-cn17)與[HB01](../bibliography/README.md#source-hb01)、[NE05](03-northeast.md#source-ne05)與[HB06](../bibliography/README.md#source-hb06)為同書的不同用途索引，不應重複計為不同著作。年表與地方章節共用[ML01](06-mainland-1929-1949.md#source-ml01)、[ML17](06-mainland-1929-1949.md#source-ml17)，不另為相同網頁增列一筆。索引項數是查考條目數，不等於不同著作的總數。
 
@@ -39,6 +39,10 @@ A 表示已核原始全文、數位原件或具體館藏紀錄；B 表示已核�
 - [家庭與文化生活深化來源](13-family-culture.md)
 
 - [臺灣與東北生活原件及研究深化來源](14-taiwan-northeast-primary.md)
+
+- [1949年人口分布來源](15-population-1949.md)
+
+- [1949年前後交通與生活差距來源](16-transport-living-1949.md)
 
 - [延伸閱讀書目](../bibliography/README.md)
 
@@ -549,3 +553,55 @@ A 表示已核原始全文、數位原件或具體館藏紀錄；B 表示已核�
 - [HB11 跨城比較 醫療 環境與 衛生 觀念](../bibliography/README.md#source-hb11)
 
 - [HB12 跨地區對話 誰真的會說 國語](../bibliography/README.md#source-hb12)
+
+## 1949年人口分布新增來源
+
+- [POP49-01 國家統計局《中國統計年鑑2011》表3-1](15-population-1949.md#source-pop49-01)
+
+- [POP49-02 李佳洺等〈胡煥庸線兩側人口的空間分異性及其變化〉](15-population-1949.md#source-pop49-02)
+
+- [POP49-03 〈新中國70年北京人口發展回顧及思考〉](15-population-1949.md#source-pop49-03)
+
+- [POP49-04 〈單位的早期生成與再生產：以1946—1956年的哈爾濱市為例〉](15-population-1949.md#source-pop49-04)
+
+- [POP49-05 《臺灣省戶籍統計要覽》（1959）第57頁](15-population-1949.md#source-pop49-05)
+
+- [POP49-06 內政部《人口統計年刊110年》表77](15-population-1949.md#source-pop49-06)
+
+- [POP49-07 臺北市志人口歷年數字](15-population-1949.md#source-pop49-07)
+
+- [POP49-08 基隆市政府歷年人口](15-population-1949.md#source-pop49-08)
+
+- [POP49-09 曾獻緯《戰後臺灣糧食體制的形構及其變革（1950–1974年）》](15-population-1949.md#source-pop49-09)
+
+- [POP49-10 〈天津與巴黎城市空間形態的比較分析〉](15-population-1949.md#source-pop49-10)
+
+- [POP49-11 重慶1949年人口的後出報導與同時代報紙](15-population-1949.md#source-pop49-11)
+
+## 1949年前後交通與生活新增來源
+
+- [TR49-01 《蘆洲市志》交通篇](16-transport-living-1949.md#source-tr49-01)
+
+- [TR49-02 1949年天津三輪車人力車業集體合同報導](16-transport-living-1949.md#source-tr49-02)
+
+- [TR49-03 《虹口區志》1949年住宅建築面積](16-transport-living-1949.md#source-tr49-03)
+
+- [TR49-04 吳俊范：上海棚戶區污名與火災的研究](16-transport-living-1949.md#source-tr49-04)
+
+- [TR49-05 賀江楓：1948年申新九廠工潮研究（全文待核）](16-transport-living-1949.md#source-tr49-05)
+
+- [TR49-06 1948年北平小學教師冬衣與配煤訴求](16-transport-living-1949.md#source-tr49-06)
+
+- [TR49-07 蘇瑤崇：1945至1946年臺灣米荒研究](16-transport-living-1949.md#source-tr49-07)
+
+- [TR49-08 中央銀行與檔案管理局：1949年幣制改革](16-transport-living-1949.md#source-tr49-08)
+
+- [TR49-09 檔案管理局：臺灣傳染病防治沿革](16-transport-living-1949.md#source-tr49-09)
+
+- [TR49-10 商務部老字號數字博物館：燕雲樓](16-transport-living-1949.md#source-tr49-10)
+
+- [TR49-11 廣州市天河區：沙河歷史文化](16-transport-living-1949.md#source-tr49-11)
+
+- [TR49-12 《圍困長春》歷史書評（延伸待查）](16-transport-living-1949.md#source-tr49-12)
+
+- [TR49-13 《中國檔案報》：1949年瀋陽春節公共活動](16-transport-living-1949.md#source-tr49-13)

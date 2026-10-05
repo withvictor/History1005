@@ -1,5 +1,5 @@
 {
-  "record_count": 239,
+  "record_count": 263,
   "count_note": "索引紀錄數，不等於獨立著作數；同書的不同用途索引保留原編碼。",
   "records": [
     {
@@ -2269,6 +2269,225 @@
       "anchor": "source-hb12",
       "source_urls": [
         "https://cup.columbia.edu/book/the-sounds-of-mandarin/9780231557757/"
+      ]
+    },
+    {
+      "id": "POP49-01",
+      "title": "POP49-01 國家統計局《中國統計年鑑2011》表3-1",
+      "file": "sources/15-population-1949.md",
+      "anchor": "source-pop49-01",
+      "source_urls": [
+        "https://www.stats.gov.cn/sj/ndsj/2011/html/D0301C.HTM"
+      ]
+    },
+    {
+      "id": "POP49-02",
+      "title": "POP49-02 李佳洺等〈胡煥庸線兩側人口的空間分異性及其變化〉",
+      "file": "sources/15-population-1949.md",
+      "anchor": "source-pop49-02",
+      "source_urls": [
+        "https://www.dlyj.ac.cn/article/2017/0375-5444/0375-5444-72-1-148.shtml"
+      ]
+    },
+    {
+      "id": "POP49-03",
+      "title": "POP49-03 〈新中國70年北京人口發展回顧及思考〉",
+      "file": "sources/15-population-1949.md",
+      "anchor": "source-pop49-03",
+      "source_urls": [
+        "https://www.bjsci.ruc.edu.cn/xsyj/4cca00c06ee34224969e9873b1397725.htm"
+      ]
+    },
+    {
+      "id": "POP49-04",
+      "title": "POP49-04 〈單位的早期生成與再生產：以1946—1956年的哈爾濱市為例〉",
+      "file": "sources/15-population-1949.md",
+      "anchor": "source-pop49-04",
+      "source_urls": [
+        "https://shfzyj.ajcass.com/Admin/UploadFile/Issue/202105300001/2022/7/20220712015655WU_FILE_0.pdf"
+      ]
+    },
+    {
+      "id": "POP49-05",
+      "title": "POP49-05 《臺灣省戶籍統計要覽》（1959）第57頁",
+      "file": "sources/15-population-1949.md",
+      "anchor": "source-pop49-05",
+      "source_urls": [
+        "https://twinfo.ncl.edu.tw/tiqry/hypage.cgi?HYPAGE=search%2Fmerge_pdf_sd0999.hpg&a=a&dtd_id=11&jid=00240006&page=57&sysid=T0829482&type=s&vol=48060000"
+      ]
+    },
+    {
+      "id": "POP49-06",
+      "title": "POP49-06 內政部《人口統計年刊110年》表77",
+      "file": "sources/15-population-1949.md",
+      "anchor": "source-pop49-06",
+      "source_urls": [
+        "https://www.ris.gov.tw/documents/data/5/2/Demographic_Fact_Book_110.pdf"
+      ]
+    },
+    {
+      "id": "POP49-07",
+      "title": "POP49-07 臺北市志人口歷年數字",
+      "file": "sources/15-population-1949.md",
+      "anchor": "source-pop49-07",
+      "source_urls": [
+        "https://www-ws.gov.taipei/001/Upload/430/relfile/41653/7561488/30a62f4f-0a52-4e3d-bc39-ddcd37f6c359.pdf"
+      ]
+    },
+    {
+      "id": "POP49-08",
+      "title": "POP49-08 基隆市政府歷年人口",
+      "file": "sources/15-population-1949.md",
+      "anchor": "source-pop49-08",
+      "source_urls": [
+        "https://www.klcg.gov.tw/tw/civil/2231-114882.html"
+      ]
+    },
+    {
+      "id": "POP49-09",
+      "title": "POP49-09 曾獻緯《戰後臺灣糧食體制的形構及其變革（1950–1974年）》",
+      "file": "sources/15-population-1949.md",
+      "anchor": "source-pop49-09",
+      "source_urls": [
+        "https://www.ntl.edu.tw/public/ntl/4216/%E6%9B%BE%E7%8D%BB%E7%B7%AF%E5%85%A8%E6%96%87.pdf"
+      ]
+    },
+    {
+      "id": "POP49-10",
+      "title": "POP49-10 〈天津與巴黎城市空間形態的比較分析〉",
+      "file": "sources/15-population-1949.md",
+      "anchor": "source-pop49-10",
+      "source_urls": [
+        "https://g-city.sass.org.cn/_upload/article/files/56/7c/1bfb8a284497b61236a789cbd5d4/de413ea9-52d4-476b-b205-7d721f4ed248.pdf#page=2"
+      ]
+    },
+    {
+      "id": "POP49-11",
+      "title": "POP49-11 重慶1949年人口的後出報導與同時代報紙",
+      "file": "sources/15-population-1949.md",
+      "anchor": "source-pop49-11",
+      "source_urls": [
+        "https://dangshi.people.com.cn/n1/2017/0801/c85037-29442685.html",
+        "https://cn.govopendata.com/renminribao/1949/12/02/1/"
+      ]
+    },
+    {
+      "id": "TR49-01",
+      "title": "TR49-01 《蘆洲市志》交通篇",
+      "file": "sources/16-transport-living-1949.md",
+      "anchor": "source-tr49-01",
+      "source_urls": [
+        "https://www.luzhou.police.ntpc.gov.tw/dl-2913-ea3f89c2-2c13-4945-aeaf-f147600a75d8.html"
+      ]
+    },
+    {
+      "id": "TR49-02",
+      "title": "TR49-02 1949年天津三輪車人力車業集體合同報導",
+      "file": "sources/16-transport-living-1949.md",
+      "anchor": "source-tr49-02",
+      "source_urls": [
+        "https://cn.govopendata.com/renminribao/1949/12/10/2/"
+      ]
+    },
+    {
+      "id": "TR49-03",
+      "title": "TR49-03 《虹口區志》1949年住宅建築面積",
+      "file": "sources/16-transport-living-1949.md",
+      "anchor": "source-tr49-03",
+      "source_urls": [
+        "https://www.zhongguoguoqing.cn/zsgq/xfz/201809/t20180919_5037606.shtml"
+      ]
+    },
+    {
+      "id": "TR49-04",
+      "title": "TR49-04 吳俊范：上海棚戶區污名與火災的研究",
+      "file": "sources/16-transport-living-1949.md",
+      "anchor": "source-tr49-04",
+      "source_urls": [
+        "https://g-city.sass.org.cn/_upload/article/files/f5/c3/84ad89d34c31af55cd697aa98d23/43f23048-9633-4ad0-ad79-5e6261e284d4.pdf"
+      ]
+    },
+    {
+      "id": "TR49-05",
+      "title": "TR49-05 賀江楓：1948年申新九廠工潮研究（全文待核）",
+      "file": "sources/16-transport-living-1949.md",
+      "anchor": "source-tr49-05",
+      "source_urls": [
+        "https://m.cgl.org.cn/auto/db/detail.aspx?agfi=0&cid=0&cls=0&count=10&db=171029&md=54&mdd=54&msd=54&pd=210&pdd=210&prec=False&psd=210&reds=%E5%BC%A0%E7%A5%BA&rid=17204&showgp=False&uni=False",
+        "https://kunlunce.com/jczc/fl111111111111/2015-11-09/15114.html"
+      ]
+    },
+    {
+      "id": "TR49-06",
+      "title": "TR49-06 1948年北平小學教師冬衣與配煤訴求",
+      "file": "sources/16-transport-living-1949.md",
+      "anchor": "source-tr49-06",
+      "source_urls": [
+        "https://cn.govopendata.com/renminribao/1948/10/29/2/"
+      ]
+    },
+    {
+      "id": "TR49-07",
+      "title": "TR49-07 蘇瑤崇：1945至1946年臺灣米荒研究",
+      "file": "sources/16-transport-living-1949.md",
+      "anchor": "source-tr49-07",
+      "source_urls": [
+        "https://www.mh.sinica.edu.tw/MHDocument/PublicationDetail/PublicationDetail_1607.pdf"
+      ]
+    },
+    {
+      "id": "TR49-08",
+      "title": "TR49-08 中央銀行與檔案管理局：1949年幣制改革",
+      "file": "sources/16-transport-living-1949.md",
+      "anchor": "source-tr49-08",
+      "source_urls": [
+        "https://www.cbc.gov.tw/tw/cp-731-24678-8C2D6-1.html",
+        "https://art.archives.gov.tw/tw/art/1764.html"
+      ]
+    },
+    {
+      "id": "TR49-09",
+      "title": "TR49-09 檔案管理局：臺灣傳染病防治沿革",
+      "file": "sources/16-transport-living-1949.md",
+      "anchor": "source-tr49-09",
+      "source_urls": [
+        "https://art.archives.gov.tw/tw/art/998.html"
+      ]
+    },
+    {
+      "id": "TR49-10",
+      "title": "TR49-10 商務部老字號數字博物館：燕雲樓",
+      "file": "sources/16-transport-living-1949.md",
+      "anchor": "source-tr49-10",
+      "source_urls": [
+        "https://lzhbwg.mofcom.gov.cn/edi_ecms_web_front/thb/detail/35d8123d5ee84112b4466e407b319a8c"
+      ]
+    },
+    {
+      "id": "TR49-11",
+      "title": "TR49-11 廣州市天河區：沙河歷史文化",
+      "file": "sources/16-transport-living-1949.md",
+      "anchor": "source-tr49-11",
+      "source_urls": [
+        "https://www.thnet.gov.cn/zjth/thgk/lswh/index.html"
+      ]
+    },
+    {
+      "id": "TR49-12",
+      "title": "TR49-12 《圍困長春》歷史書評（延伸待查）",
+      "file": "sources/16-transport-living-1949.md",
+      "anchor": "source-tr49-12",
+      "source_urls": [
+        "https://m.ahjjjc.gov.cn/android/p/66058.html"
+      ]
+    },
+    {
+      "id": "TR49-13",
+      "title": "TR49-13 《中國檔案報》：1949年瀋陽春節公共活動",
+      "file": "sources/16-transport-living-1949.md",
+      "anchor": "source-tr49-13",
+      "source_urls": [
+        "https://www.bjcc.gov.cn/article/600481186.html"
       ]
     }
   ]
