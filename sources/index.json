@@ -1,5 +1,5 @@
 {
-  "record_count": 263,
+  "record_count": 281,
   "count_note": "索引紀錄數，不等於獨立著作數；同書的不同用途索引保留原編碼。",
   "records": [
     {
@@ -2489,6 +2489,258 @@
       "source_urls": [
         "https://www.bjcc.gov.cn/article/600481186.html"
       ]
+    },
+    {
+      "id": "LZ01",
+      "title": "LZ01 蒲松齡〈聊齋志異作者自志〉",
+      "file": "sources/17-liaozhai-zhiyi.md",
+      "anchor": "source-lz01",
+      "source_urls": [
+        "https://zh.wikisource.org/wiki/聊齋志異/作者自志"
+      ],
+      "source_type": "古典原文電子轉錄",
+      "read_level": "已核讀自志正文及署年；未與手稿影像逐字校勘",
+      "supports": "作者自述聽聞、友人郵寄異聞及孤憤寄託；正文署康熙己未春日",
+      "limitations": "頁首寫1680年而正文署康熙己未，兩者不合；採正文並以LZ18核對1679年。電子標點、頁首簡介及編者注不是作者原稿。",
+      "checked_on": "2026-10-07"
+    },
+    {
+      "id": "LZ02",
+      "title": "LZ02 中國國家博物館〈心游萬仞——蒲松齡與《聊齋志異》〉",
+      "file": "sources/17-liaozhai-zhiyi.md",
+      "anchor": "source-lz02",
+      "source_urls": [
+        "https://www.chnmuseum.cn/zl/lszl/lswh/202605/t20260528_279094.shtml"
+      ],
+      "source_type": "官方博物館展覽介紹",
+      "read_level": "已核讀網頁正文",
+      "supports": "1640年出生、字留仙、號柳泉居士、明清易代背景、科舉失意與歲貢生；遼寧省圖書館藏半部手稿",
+      "limitations": "展覽介紹不是完整年譜或手稿校勘。本文不據此推定每篇成文日期；未核讀展出手稿影像。",
+      "checked_on": "2026-10-07"
+    },
+    {
+      "id": "LZ03",
+      "title": "LZ03 中國國家博物館〈聊齋圖冊〉",
+      "file": "sources/17-liaozhai-zhiyi.md",
+      "anchor": "source-lz03",
+      "source_urls": [
+        "https://www.chnmuseum.cn/zp/zpml/ysp/202101/t20210112_248876.shtml"
+      ],
+      "source_type": "官方館藏說明",
+      "read_level": "已核讀館藏介紹正文；未逐幅檢視圖像",
+      "supports": "蒲松齡1640至1715年；晚清《聊齋圖說》由徐潤組織繪製；館方著錄現存46冊、420篇目、725幅圖",
+      "limitations": "420是該圖冊所繪故事數，不是《聊齋》全部篇數。晚清圖像不自動等於清初實景。未重刊圖片，也未進行圖片授權判定。",
+      "checked_on": "2026-10-07"
+    },
+    {
+      "id": "LZ04",
+      "title": "LZ04 國家圖書館中文古籍聯合目錄《聊齋志異》青柯亭本",
+      "file": "sources/17-liaozhai-zhiyi.md",
+      "anchor": "source-lz04",
+      "source_urls": [
+        "https://rbook.ncl.edu.tw/NCLSearch/Search/SearchDetail?HasImage=&SourceID=3&item=3add0b45549a41dfb06aa59c646ebcdbfDk2NzY40.BoqYePxxIjRKwDaeFFLjvI6iZP_w3yUdWuSKPB_QEtI_&page=81128&sourceWhereString=&whereString=IChOVUxMSUYoRGF0ZV9DcmVhdGVkLCAnICcpIGlzIE5VTEwgYW5kIE5VTExJRihEb2N1bWVudF9ZZWFyLCAnICcpIGlzIE5VTEwgKSA1.uQrV5XxqrHh4fOCXMwOuuzssvPVRwJbumFyT4mFEUCA_"
+      ],
+      "source_type": "官方館藏書目",
+      "read_level": "已核讀詳細書目；未讀古籍內頁",
+      "supports": "十六卷、封面青柯亭開雕、乾隆三十一年1766；藏於英國倫敦大學亞非學院圖書館；登錄號mirr0000616",
+      "limitations": "是聯合目錄的SOAS藏本紀錄，不表示此件現藏臺灣國家圖書館。書目不足以確定所有同名青柯亭本的印次、完整度及篇數。",
+      "checked_on": "2026-10-07"
+    },
+    {
+      "id": "LZ05",
+      "title": "LZ05 Jeffrey Wang, The Strange Tales from Liaozhai, Library of Congress",
+      "file": "sources/17-liaozhai-zhiyi.md",
+      "anchor": "source-lz05",
+      "source_urls": [
+        "https://blogs.loc.gov/international-collections/2018/10/the-strange-tales-from-liaozhai/"
+      ],
+      "source_type": "國家圖書館專業館員文章",
+      "read_level": "已核讀2018-10-29正文及圖說",
+      "supports": "常見491篇的介紹口徑；1886年《聊齋志異圖詠》圖像入口；作者生卒與文言短篇集定位",
+      "limitations": "未逐項核對其491篇目錄，不能據此宣布所有版本固定491篇。文章對〈席方平〉結局簡述為冥王判案，與本章所讀原文不合；故事梗概改依LZ11。文章所稱十六卷亦不套用本章十二卷電子本。",
+      "checked_on": "2026-10-07"
+    },
+    {
+      "id": "LZ06",
+      "title": "LZ06 華夏出版社《聊齋志異》2017年版書介",
+      "file": "sources/17-liaozhai-zhiyi.md",
+      "anchor": "source-lz06",
+      "source_urls": [
+        "https://www.hxph.com.cn/allBooks/6392.jhtml"
+      ],
+      "source_type": "出版者書目與書介",
+      "read_level": "已核對出版社檢索文字及書目入口；未逐篇核查實體目錄",
+      "supports": "2017-02-01出版、ISBN 9787508090467；書介使用491篇",
+      "limitations": "這是該出版者的介紹口徑，不是跨版本校勘結論。書介的其他生平敘述未全數採用；現代出版全文及整理內容未轉載。",
+      "checked_on": "2026-10-07"
+    },
+    {
+      "id": "LZ07",
+      "title": "LZ07 蒲松齡《聊齋志異》第01卷",
+      "file": "sources/17-liaozhai-zhiyi.md",
+      "anchor": "source-lz07",
+      "source_urls": [
+        "https://zh.wikisource.org/wiki/聊齋志異/第01卷"
+      ],
+      "source_type": "古典原文電子轉錄",
+      "read_level": "已核讀〈考城隍〉〈勞山道士〉〈葉生〉〈畫皮〉主要正文及結局",
+      "supports": "本章四篇梗概、場景與文字線索",
+      "limitations": "未校對整卷或指定古刻本。頁內含後人評語、注釋、異文；不能一併歸為蒲松齡原文。各篇是文學證據，非事件紀錄或制度統計。",
+      "checked_on": "2026-10-07"
+    },
+    {
+      "id": "LZ08",
+      "title": "LZ08 蒲松齡《聊齋志異》第02卷",
+      "file": "sources/17-liaozhai-zhiyi.md",
+      "anchor": "source-lz08",
+      "source_urls": [
+        "https://zh.wikisource.org/wiki/聊齋志異/第02卷"
+      ],
+      "source_type": "古典原文電子轉錄",
+      "read_level": "已核讀〈嬰寧〉〈聶小倩〉主要正文、家庭段落及結局",
+      "supports": "狐女、鬼母、上元遊觀、遷葬、家庭接納、家務與子嗣等文本線索",
+      "limitations": "未逐字校勘底本；原著、後評與影視改編須區分。不以小說敘述推論所有女性、寺院或家庭的真實生活。",
+      "checked_on": "2026-10-07"
+    },
+    {
+      "id": "LZ09",
+      "title": "LZ09 蒲松齡《聊齋志異》第04卷",
+      "file": "sources/17-liaozhai-zhiyi.md",
+      "anchor": "source-lz09",
+      "source_urls": [
+        "https://zh.wikisource.org/wiki/聊齋志異/第04卷"
+      ],
+      "source_type": "古典原文電子轉錄",
+      "read_level": "已核讀〈促織〉〈羅剎海市〉〈續黃粱〉主要正文與結局，另核〈水災〉所載年號",
+      "supports": "宣德故事設定、徵蟲、異國美醜、海市龍宮、夢中權勢及受害者轉位；〈水災〉載康熙二十一及二十四年",
+      "limitations": "故事年代與作者年代不同；海外異國不等於真實地理；夢中的官職人物不構成單一朝代官制。未校勘整卷。",
+      "checked_on": "2026-10-07"
+    },
+    {
+      "id": "LZ10",
+      "title": "LZ10 蒲松齡《聊齋志異》第08卷",
+      "file": "sources/17-liaozhai-zhiyi.md",
+      "anchor": "source-lz10",
+      "source_urls": [
+        "https://zh.wikisource.org/wiki/聊齋志異/第08卷"
+      ],
+      "source_type": "古典原文電子轉錄",
+      "read_level": "已核讀〈司文郎〉正文，包括盲僧論文、宋生身世、任官與後段德行解釋",
+      "supports": "北闈、報國寺、投刺評文、水角、甲申身世、文運與德行的多重解釋",
+      "limitations": "未校勘整卷或將甲申身世進一步外證；不可只截取盲僧一段便概括全篇。",
+      "checked_on": "2026-10-07"
+    },
+    {
+      "id": "LZ11",
+      "title": "LZ11 蒲松齡《聊齋志異》第10卷",
+      "file": "sources/17-liaozhai-zhiyi.md",
+      "anchor": "source-lz11",
+      "source_urls": [
+        "https://zh.wikisource.org/wiki/聊齋志異/第10卷"
+      ],
+      "source_type": "古典原文電子轉錄",
+      "read_level": "已核讀〈席方平〉開篇、申訴過程、二郎判案與結局",
+      "supports": "城隍、郡司、冥王涉貪；九王轉交二郎審理；父子還陽的結局",
+      "limitations": "陰司程序與刑罰是小說設計，不當作清律實錄。原文與LZ05的簡略故事摘要不一致，本章採原文。",
+      "checked_on": "2026-10-07"
+    },
+    {
+      "id": "LZ12",
+      "title": "LZ12 蒲松齡《聊齋志異》第11卷",
+      "file": "sources/17-liaozhai-zhiyi.md",
+      "anchor": "source-lz12",
+      "source_urls": [
+        "https://zh.wikisource.org/wiki/聊齋志異/第11卷"
+      ],
+      "source_type": "古典原文電子轉錄",
+      "read_level": "已核讀〈黃英〉正文，包括販花、婚後財務、菊精顯形與結局",
+      "supports": "馬子才、陶氏姊弟、園藝商業與清高、家庭財產和依妻生活的矛盾",
+      "limitations": "超自然栽培與收益不能作實際技術或經濟數據。未校勘整卷。",
+      "checked_on": "2026-10-07"
+    },
+    {
+      "id": "LZ13",
+      "title": "LZ13 謝明勳〈《聊齋誌異》「離魂」故事之承繼與新變：以「葉生」故事為中心〉",
+      "file": "sources/17-liaozhai-zhiyi.md",
+      "anchor": "source-lz13",
+      "source_urls": [
+        "https://rc019.ndhu.edu.tw/var/file/56/1056/img/2548/888614619.pdf"
+      ],
+      "source_type": "學術期刊論文",
+      "read_level": "已核讀論文首頁書目及摘要；正文待進一步深入研讀",
+      "supports": "《東華漢學》18期，2013年12月，頁305至330；以離魂文學手法、前代承繼及抒發不平理解〈葉生〉",
+      "limitations": "本章僅採摘要層級的研究方向，不宣稱已完整重做其論證。未採為成書年代或所有故事都屬作者自傳的證據。",
+      "checked_on": "2026-10-07"
+    },
+    {
+      "id": "LZ14",
+      "title": "LZ14 張照〈宿命與善惡——生死簿問題中的命運觀〉",
+      "file": "sources/17-liaozhai-zhiyi.md",
+      "anchor": "source-lz14",
+      "source_urls": [
+        "https://www.cssn.cn/dkzgxp/zgxp_gjshkxzzzwb/gjshkxzz202204/202303/t20230320_5614070.shtml"
+      ],
+      "source_type": "學術論文機構轉載",
+      "read_level": "已核讀書目、摘要及〈席方平〉與《閱微草堂筆記》相關討論",
+      "supports": "原載《國際社會科學雜誌》中文版2022年第4期，網頁2023-03-20；命定與可改、冥府官僚及正義觀的研究入口",
+      "limitations": "是學者的詮釋而非全社會信仰調查；本章不將其廣泛概括直接改寫成普遍史實，也不大段轉載。",
+      "checked_on": "2026-10-07"
+    },
+    {
+      "id": "LZ15",
+      "title": "LZ15 干寶《搜神記》公開原文入口",
+      "file": "sources/17-liaozhai-zhiyi.md",
+      "anchor": "source-lz15",
+      "source_urls": [
+        "https://zh.wikisource.org/wiki/搜神記"
+      ],
+      "source_type": "古典原文索引",
+      "read_level": "已核對作者、時代與版本入口；未逐卷核讀",
+      "supports": "晉代干寶著作比較路徑；入口自述採明代《秘冊彙函》版本",
+      "limitations": "只列為延伸閱讀，不宣稱今本等同晉代原稿；不提供尚未完成的全書研究結論。",
+      "checked_on": "2026-10-07"
+    },
+    {
+      "id": "LZ16",
+      "title": "LZ16 沈既濟〈枕中記〉",
+      "file": "sources/17-liaozhai-zhiyi.md",
+      "anchor": "source-lz16",
+      "source_urls": [
+        "https://zh.wikisource.org/wiki/枕中記"
+      ],
+      "source_type": "古典原文電子轉錄",
+      "read_level": "已核讀原文首尾及夢中功名盛衰段落",
+      "supports": "盧生夢中一生與醒後蒸黍未熟；與〈續黃粱〉的題材比較",
+      "limitations": "是唐代傳奇閱讀入口；本章未進行版本校勘或所有黃粱夢故事的流變研究。",
+      "checked_on": "2026-10-07"
+    },
+    {
+      "id": "LZ17",
+      "title": "LZ17 紀昀《閱微草堂筆記》公開原文入口",
+      "file": "sources/17-liaozhai-zhiyi.md",
+      "anchor": "source-lz17",
+      "source_urls": [
+        "https://zh.wikisource.org/wiki/閱微草堂筆記"
+      ],
+      "source_type": "古典原文索引",
+      "read_level": "已核對作者及各書目錄；具體冥籍故事僅經LZ14的引用與分析閱讀",
+      "supports": "清代志怪筆記延伸比較路徑",
+      "limitations": "未直接核讀全書及LZ14所引故事的原始卷次，不將二手引文冒充已直接校讀的原文。",
+      "checked_on": "2026-10-07"
+    },
+    {
+      "id": "LZ18",
+      "title": "LZ18 陳惠美、謝鶯興〈館藏徐復觀先生贈線裝書簡明目錄・集部詞曲類暨小說類〉",
+      "file": "sources/17-liaozhai-zhiyi.md",
+      "anchor": "source-lz18",
+      "source_urls": [
+        "https://dcollection.lib.thu.edu.tw/wp-content/uploads/2024/12/第16期館刊100-121.pdf"
+      ],
+      "source_type": "大學圖書館特藏目錄論文",
+      "read_level": "已核讀《東海大學圖書館館刊》16期中頁112至115的聊齋書目",
+      "supports": "〈聊齋自誌〉康熙己未、十八年、1679的明示對照；影印稿本與圖詠本書目；附冊補配殘文的說明",
+      "limitations": "所著錄有1977年臺北影印本，不能用來證明1860至1949年臺灣流通。文中另有康熙五十二年括注1723、稿本影印條目1995與所引版權頁1955等矛盾，相關錯置不沿用；未核實全部館藏內頁。",
+      "checked_on": "2026-10-07"
     }
   ]
 }

@@ -4,7 +4,7 @@
 
 [回總目錄](../README.md) · [來源索引](README.md) · [寫作查證清單](../docs/08-writing-checklist.md)
 
-本索引合計 263 筆來源與書目紀錄：251 筆來源註解，以及 12 筆延伸閱讀書目。同書可依不同用途重複索引；這不是 263 部獨立著作。
+本索引合計 281 筆來源與書目紀錄：269 筆來源註解，以及 12 筆延伸閱讀書目。同書可依不同用途重複索引；這不是 281 部獨立著作。
 
 來源編號可從正文點選跳轉。每一項分清實際核讀內容、同時代或後來研究、適用範圍與存取限制。[CN16](01-shanghai-beijing.md#source-cn16)與[HB03](../bibliography/README.md#source-hb03)、[CN17](01-shanghai-beijing.md#source-cn17)與[HB01](../bibliography/README.md#source-hb01)、[NE05](03-northeast.md#source-ne05)與[HB06](../bibliography/README.md#source-hb06)為同書的不同用途索引，不應重複計為不同著作。年表與地方章節共用[ML01](06-mainland-1929-1949.md#source-ml01)、[ML17](06-mainland-1929-1949.md#source-ml17)，不另為相同網頁增列一筆。索引項數是查考條目數，不等於不同著作的總數。
 
@@ -43,6 +43,8 @@ A 表示已核原始全文、數位原件或具體館藏紀錄；B 表示已核�
 - [1949年人口分布來源](15-population-1949.md)
 
 - [1949年前後交通與生活差距來源](16-transport-living-1949.md)
+
+- [《聊齋誌異》文學與民俗補充來源](17-liaozhai-zhiyi.md)
 
 - [延伸閱讀書目](../bibliography/README.md)
 
@@ -605,3 +607,41 @@ A 表示已核原始全文、數位原件或具體館藏紀錄；B 表示已核�
 - [TR49-12 《圍困長春》歷史書評（延伸待查）](16-transport-living-1949.md#source-tr49-12)
 
 - [TR49-13 《中國檔案報》：1949年瀋陽春節公共活動](16-transport-living-1949.md#source-tr49-13)
+
+## 《聊齋誌異》文學與民俗補充來源
+
+- [LZ01 蒲松齡〈聊齋志異作者自志〉](17-liaozhai-zhiyi.md#source-lz01)
+
+- [LZ02 中國國家博物館〈心游萬仞——蒲松齡與《聊齋志異》〉](17-liaozhai-zhiyi.md#source-lz02)
+
+- [LZ03 中國國家博物館〈聊齋圖冊〉](17-liaozhai-zhiyi.md#source-lz03)
+
+- [LZ04 國家圖書館中文古籍聯合目錄《聊齋志異》青柯亭本](17-liaozhai-zhiyi.md#source-lz04)
+
+- [LZ05 Jeffrey Wang, The Strange Tales from Liaozhai, Library of Congress](17-liaozhai-zhiyi.md#source-lz05)
+
+- [LZ06 華夏出版社《聊齋志異》2017年版書介](17-liaozhai-zhiyi.md#source-lz06)
+
+- [LZ07 蒲松齡《聊齋志異》第01卷](17-liaozhai-zhiyi.md#source-lz07)
+
+- [LZ08 蒲松齡《聊齋志異》第02卷](17-liaozhai-zhiyi.md#source-lz08)
+
+- [LZ09 蒲松齡《聊齋志異》第04卷](17-liaozhai-zhiyi.md#source-lz09)
+
+- [LZ10 蒲松齡《聊齋志異》第08卷](17-liaozhai-zhiyi.md#source-lz10)
+
+- [LZ11 蒲松齡《聊齋志異》第10卷](17-liaozhai-zhiyi.md#source-lz11)
+
+- [LZ12 蒲松齡《聊齋志異》第11卷](17-liaozhai-zhiyi.md#source-lz12)
+
+- [LZ13 謝明勳〈《聊齋誌異》「離魂」故事之承繼與新變：以「葉生」故事為中心〉](17-liaozhai-zhiyi.md#source-lz13)
+
+- [LZ14 張照〈宿命與善惡——生死簿問題中的命運觀〉](17-liaozhai-zhiyi.md#source-lz14)
+
+- [LZ15 干寶《搜神記》公開原文入口](17-liaozhai-zhiyi.md#source-lz15)
+
+- [LZ16 沈既濟〈枕中記〉](17-liaozhai-zhiyi.md#source-lz16)
+
+- [LZ17 紀昀《閱微草堂筆記》公開原文入口](17-liaozhai-zhiyi.md#source-lz17)
+
+- [LZ18 陳惠美、謝鶯興〈館藏徐復觀先生贈線裝書簡明目錄・集部詞曲類暨小說類〉](17-liaozhai-zhiyi.md#source-lz18)
